@@ -11,17 +11,18 @@ Main tasks:
 - the real outliers were only in fedu, famrel, absences - so the data was clear enough
 
 Steps:
-	1. Prepare functions. Look at the data in general.
-	2. Select columns to have a deeper look. Filter outliers.
-	3. Calculate number of unique values/NaN's
-	4. Replace Nan's by mode values.
-	5. Perform correlation analysis
-	6. Perform analysis of the nominative variables. 
-	7. Select columns for the machine learning step. Prepare the final data.
+1. Prepare functions. Look at the data in general.
+2. Select columns to have a deeper look. Filter outliers.
+3. Calculate number of unique values/NaN's
+4. Replace Nan's by mode values.
+5. Perform correlation analysis
+6. Perform analysis of the nominative variables. 
+7. Select columns for the machine learning step. Prepare the final data.
 
+Answers:
 1. This project was for each student personally. We didn't work in teams.
-2. I'm satisfied  my histogram preparation functions & working with outliers
-3. I'm not satisfied  my analysis of the nominative variables.
+2. I'm satisfied with my histogram preparation functions & working with outliers
+3. I'm not satisfied with my analysis of the nominative variables.
 4. I've started learning statistics. But it's not enough for me.
  Need more data about analysis of the nominative variables. 
 5. The main result is fully prepared project
