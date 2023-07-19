@@ -1,0 +1,25 @@
+,street,city,state,zipcode,addres,geocode
+0,2401 8th Ave N #202 ,seattle,WA,90109,"2401 8th Ave N #202 , seattle, WA","2401, 8th Avenue North, Fremont, Seattle, King County, Washington, 98109, United States"
+1,Gates Canyon Rd,vacaville,CA,0,"Gates Canyon Rd, vacaville, CA",
+2,21005 NW 14th Place 346 # 3,miami gardens,FL,3316,"21005 NW 14th Place 346 # 3, miami gardens, FL",
+3,442 Lake Louise Dr SW ,lakewood,WA,98489,"442 Lake Louise Dr SW , lakewood, WA","442, Lake Louise Drive Southwest, Lakewood, Pierce County, Washington, 98498, United States"
+4,Cornejo Ricardo Descalzi ,quito ecuador,NY,0,"Cornejo Ricardo Descalzi , quito ecuador, NY",
+5,6789 White River Home ,other city value - out of area,NY,123456,"6789 White River Home , other city value - out of area, NY",
+6,181 Huntington Acres Rd,huntington,VT,05642,"181 Huntington Acres Rd, huntington, VT",
+7,141 Crandon Blvd #345 ,key biscayne,FL,33249,"141 Crandon Blvd #345 , key biscayne, FL","141, Crandon Boulevard, Key Biscayne, Miami-Dade County, Florida, 33149, United States"
+8,Ber Mar LOT 88,san antonio,TX,78697,"Ber Mar LOT 88, san antonio, TX",
+9,2315 Gerritsen Ave Unit 3A ,brooklyn,NY,112229,"2315 Gerritsen Ave Unit 3A , brooklyn, NY",
+10,301 Altara #402 ,coral gables,FL,331446,"301 Altara #402 , coral gables, FL","301, Altara Avenue, Italian Village, Coral Gables, Miami-Dade County, Florida, 33146, United States"
+11,1203 Fitchie Pl ,durham,NC,22703,"1203 Fitchie Pl , durham, NC","1203, Fitchie Place, Durham, Durham County, North Carolina, 27703, United States"
+12,80 SW 177 Ave,miami,FL,33000,"80 SW 177 Ave, miami, FL",
+13,Ber Mar #Lot 88,san antonio,TX,78697,"Ber Mar #Lot 88, san antonio, TX",
+14,0 N Gopher Canyon Rd,bonsall,CA,--,"0 N Gopher Canyon Rd, bonsall, CA",
+15,1744 N Dixie Hwy # 1744,fort lauderdale,FL,--,"1744 N Dixie Hwy # 1744, fort lauderdale, FL","North Dixie Highway, Fort Lauderdale, Broward County, Florida, 33334, United States"
+16,0 Airport Rd ,winston salem,NC,2105,"0 Airport Rd , winston salem, NC","Airport Road, Winston-Salem, Forsyth County, North Carolina, 27105, United States"
+17,SW Campbellton Rd,atlanta,GA,27000,"SW Campbellton Rd, atlanta, GA",
+18,000 U.S. Hwy 359,laredo,TX,0,"000 U.S. Hwy 359, laredo, TX",
+19,435 pescador ,foreign country,OS,00000,"435 pescador , foreign country, OS",
+20,28405 Aurora Rd ,solon,OH,44037,"28405 Aurora Rd , solon, OH","28405, Aurora Road, Solon, Cuyahoga County, Ohio, 44139, United States"
+21,0 American Way Rd ,memphis,TN,38818,"0 American Way Rd , memphis, TN",
+22,1001 Panama ,other city value - out of area,FL,5940,"1001 Panama , other city value - out of area, FL",
+23,22115 Military Rd ,seatac,WA,98798,"22115 Military Rd , seatac, WA",

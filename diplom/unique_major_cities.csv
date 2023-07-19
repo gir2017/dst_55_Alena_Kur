@@ -1,0 +1,1416 @@
+,major_city,state,city_state,geocode,city_latitude,city_longitude
+0,Southern Pines,NC,"Southern Pines, NC","Southern Pines, Moore County, North Carolina, 28387, United States",35.17,-79.39
+1,Spokane,WA,"Spokane, WA","Spokane, Spokane County, Washington, United States",47.66,-117.42
+2,Los Angeles,CA,"Los Angeles, CA","Los Angeles, Los Angeles County, California, United States",34.05,-118.24
+3,Dallas,TX,"Dallas, TX","Dallas, Dallas County, Texas, United States",32.78,-96.8
+4,Palm Bay,FL,"Palm Bay, FL","Palm Bay, Brevard County, Florida, United States",27.99,-80.64
+5,Philadelphia,PA,"Philadelphia, PA","Philadelphia, Philadelphia County, Pennsylvania, United States",39.95,-75.16
+6,Kissimmee,FL,"Kissimmee, FL","Kissimmee, Osceola County, Florida, United States",28.29,-81.41
+7,Memphis,TN,"Memphis, TN","Memphis, Shelby County, West Tennessee, Tennessee, United States",35.15,-90.05
+8,Mason City,IA,"Mason City, IA","Mason City, Cerro Gordo County, Iowa, United States",43.15,-93.2
+9,Houston,TX,"Houston, TX","Houston, Harris County, Texas, United States",29.76,-95.37
+10,Flushing,NY,"Flushing, NY","Flushing, Queens County, City of New York, New York, 11354, United States",40.77,-73.82
+12,Pembroke Pines,FL,"Pembroke Pines, FL","Pembroke Pines, Broward County, Florida, United States",26.0,-80.22
+13,Eugene,OR,"Eugene, OR","Eugene, Lane County, Oregon, United States",44.05,-123.1
+15,Brooklyn,NY,"Brooklyn, NY","Brooklyn, Kings County, City of New York, New York, United States",40.65,-73.95
+16,Fort Lauderdale,FL,"Fort Lauderdale, FL","Fort Lauderdale, Broward County, Florida, United States",26.12,-80.14
+17,New York,NY,"New York, NY","City of New York, New York, United States",40.71,-74.01
+18,Tomball,TX,"Tomball, TX","Tomball, Harris County, 77375, United States",30.1,-95.62
+20,Palmdale,CA,"Palmdale, CA","Palmdale, Los Angeles County, California, United States",34.58,-118.12
+21,Bend,OR,"Bend, OR","Bend, Deschutes County, Oregon, United States",44.06,-121.32
+22,Miami Beach,FL,"Miami Beach, FL","Miami Beach, Miami-Dade County, Florida, United States",25.79,-80.14
+23,Spring,TX,"Spring, TX","Spring Valley, Harris County, United States",29.79,-95.5
+24,Killeen,TX,"Killeen, TX","Killeen, Bell County, Texas, United States",31.12,-97.73
+25,Washington,DC,"Washington, DC","Washington, District of Columbia, United States",38.9,-77.04
+26,Miami,FL,"Miami, FL","Miami, Miami-Dade County, Florida, United States",25.77,-80.19
+31,Tampa,FL,"Tampa, FL","Tampa, Hillsborough County, Florida, United States",27.95,-82.46
+32,Port Saint Lucie,FL,"Port Saint Lucie, FL","Port Saint Lucie, Saint Lucie County, Florida, United States",27.29,-80.35
+33,North Miami Beach,FL,"North Miami Beach, FL","North Miami Beach, Miami-Dade County, Florida, 33162, United States",25.93,-80.16
+34,Jacksonville,FL,"Jacksonville, FL","Jacksonville, Duval County, Florida, United States",30.33,-81.66
+35,Charlotte,NC,"Charlotte, NC","Charlotte, Mecklenburg County, North Carolina, United States",35.23,-80.84
+36,Fresno,CA,"Fresno, CA","Fresno, Fresno County, California, United States",36.74,-119.78
+40,Rotonda West,FL,"Rotonda West, FL","Rotonda West, Charlotte County, Florida, 33947, United States",26.88,-82.28
+41,San Diego,CA,"San Diego, CA","San Diego, San Diego County, California, United States",32.72,-117.16
+44,Las Vegas,NV,"Las Vegas, NV","Las Vegas, Clark County, Nevada, United States",36.17,-115.15
+45,Sylmar,CA,"Sylmar, CA","Sylmar, Sylmar Neighborhood Council District, Los Angeles, Los Angeles County, California, 91342, United States",34.31,-118.45
+46,Tyler,TX,"Tyler, TX","Tyler County, Texas, United States",30.76,-94.4
+47,Fort Worth,TX,"Fort Worth, TX","Fort Worth, Tarrant County, Texas, United States",32.75,-97.33
+48,Signal Mountain,TN,"Signal Mountain, TN","Signal Mountain, Hamilton County, East Tennessee, Tennessee, 37377, United States",35.12,-85.34
+49,Glendale,AZ,"Glendale, AZ","Glendale, Maricopa County, Arizona, United States",33.54,-112.19
+50,Palm Coast,FL,"Palm Coast, FL","Palm Coast, Flagler County, Florida, United States",29.55,-81.22
+51,Whitestone,NY,"Whitestone, NY","Whitestone, Queens County, City of New York, New York, 11357, United States",40.79,-73.82
+53,Portland,OR,"Portland, OR","Portland, Multnomah County, Oregon, United States",45.52,-122.67
+54,Atlanta,GA,"Atlanta, GA","Atlanta, Fulton County, Georgia, United States",33.75,-84.39
+55,Edmonds,WA,"Edmonds, WA","Edmonds, Snohomish County, Washington, United States",47.81,-122.38
+57,Durham,NC,"Durham, NC","Durham, Durham County, North Carolina, United States",36.0,-78.9
+58,Spring Hill,FL,"Spring Hill, FL","Spring Hill, Hernando County, Florida, United States",28.48,-82.53
+62,San Antonio,TX,"San Antonio, TX","San Antonio, Bexar County, Texas, United States",29.42,-98.5
+63,Cleveland,TX,"Cleveland, TX","Cleveland, Liberty County, Texas, 77327, United States",30.34,-95.09
+66,Chicago,IL,"Chicago, IL","Chicago, Cook County, Illinois, United States",41.88,-87.62
+68,Lakewood,NJ,"Lakewood, NJ","Lakewood, Ocean County, New Jersey, 08701, United States",40.1,-74.22
+69,Waco,TX,"Waco, TX","Waco, McLennan County, Texas, United States",31.55,-97.15
+70,Seattle,WA,"Seattle, WA","Seattle, King County, Washington, United States",47.6,-122.33
+71,Port Charlotte,FL,"Port Charlotte, FL","Port Charlotte, Charlotte County, Florida, United States",26.98,-82.11
+72,Saint Johns,FL,"Saint Johns, FL","Saint Johns County, Florida, United States",29.9,-81.41
+77,South Boston,MA,"South Boston, MA","South Boston, Boston, Suffolk County, Massachusetts, United States",42.33,-71.05
+88,Panama City Beach,FL,"Panama City Beach, FL","Panama City Beach, Bay County, Florida, United States",30.18,-85.81
+89,Kew Gardens,NY,"Kew Gardens, NY","Kew Gardens, Queens County, City of New York, New York, 11415, United States",40.71,-73.83
+91,Bloomington,IL,"Bloomington, IL","Bloomington, McLean County, Illinois, United States",40.48,-88.99
+92,Orlando,FL,"Orlando, FL","Orlando, Orange County, Florida, United States",28.54,-81.38
+102,Columbus,GA,"Columbus, GA","Columbus, Muscogee County, Georgia, United States",32.46,-84.99
+103,Cleveland,OH,"Cleveland, OH","Cleveland, Cuyahoga County, Ohio, United States",41.5,-81.69
+104,Austin,TX,"Austin, TX","Austin, Travis County, Texas, United States",30.27,-97.74
+108,Columbus,IN,"Columbus, IN","Columbus, Bartholomew County, Indiana, 47201, United States",39.2,-85.92
+109,Westlake,OH,"Westlake, OH","Westlake, Cuyahoga County, Ohio, 44145, United States",41.46,-81.92
+112,North Hollywood,CA,"North Hollywood, CA","North Hollywood, Los Angeles, Los Angeles County, California, 91601, United States",34.16,-118.37
+114,Mckinney,TX,"Mckinney, TX","McKinney, Collin County, Texas, United States",33.2,-96.62
+115,San Jose,CA,"San Jose, CA","San Jose, Santa Clara County, California, United States",37.34,-121.89
+117,Oakland Gardens,NY,"Oakland Gardens, NY","Oakland Gardens, Queens County, City of New York, New York, 11364, United States",40.75,-73.77
+124,Cape Coral,FL,"Cape Coral, FL","Cape Coral, Lee County, Florida, United States",26.61,-81.98
+125,Huntington Beach,CA,"Huntington Beach, CA","Huntington Beach, Orange County, California, United States",33.68,-118.0
+126,Worcester,MA,"Worcester, MA","Worcester, Worcester County, Massachusetts, United States",42.26,-71.8
+128,Nashville,TN,"Nashville, TN","Nashville-Davidson, Davidson County, Middle Tennessee, Tennessee, United States",36.16,-86.77
+130,Chattanooga,TN,"Chattanooga, TN","Chattanooga, Hamilton County, East Tennessee, Tennessee, United States",35.05,-85.31
+131,West Valley City,UT,"West Valley City, UT","West Valley City, Salt Lake County, Utah, United States",40.7,-111.99
+133,Bayside,NY,"Bayside, NY","Bayside, Queens County, City of New York, New York, 11361, United States",40.77,-73.78
+134,Indianapolis,IN,"Indianapolis, IN","Indianapolis, Marion County, Indiana, United States",39.77,-86.16
+138,Detroit,MI,"Detroit, MI","Detroit, Wayne County, Michigan, United States",42.33,-83.05
+139,Adel,GA,"Adel, GA","Adel, Cook County, Georgia, 31620, United States",31.14,-83.42
+142,Cambria Heights,NY,"Cambria Heights, NY","Cambria Heights, Queens County, City of New York, New York, 11411, United States",40.69,-73.74
+143,Hollywood,FL,"Hollywood, FL","Hollywood, Broward County, Florida, United States",26.01,-80.15
+145,El Paso,TX,"El Paso, TX","El Paso, El Paso County, Texas, United States",31.76,-106.49
+152,Saint Petersburg,FL,"Saint Petersburg, FL","Saint Petersburg, Pinellas County, Florida, United States",27.77,-82.67
+154,College Station,TX,"College Station, TX","College Station, Brazos County, Texas, United States",30.6,-96.31
+155,Ocala,FL,"Ocala, FL","Ocala, Marion County, Florida, United States",29.19,-82.14
+156,Sacramento,CA,"Sacramento, CA","Sacramento, Sacramento County, California, United States",38.58,-121.49
+160,Circleville,OH,"Circleville, OH","Circleville, Pickaway County, Ohio, United States",39.6,-82.95
+161,Grand Prairie,TX,"Grand Prairie, TX","Grand Prairie, Dallas County, Texas, United States",32.75,-97.0
+162,Clearwater,FL,"Clearwater, FL","Clearwater, Pinellas County, Florida, United States",27.97,-82.8
+168,Reno,NV,"Reno, NV","Reno, Washoe County, Nevada, United States",39.53,-119.81
+173,West Palm Beach,FL,"West Palm Beach, FL","West Palm Beach, Palm Beach County, Florida, United States",26.72,-80.05
+179,Bronx,NY,"Bronx, NY","The Bronx, City of New York, New York, United States",40.85,-73.88
+180,Hialeah,FL,"Hialeah, FL","Hialeah, Miami-Dade County, Florida, United States",25.86,-80.28
+181,Moultrie,GA,"Moultrie, GA","Moultrie, Colquitt County, Georgia, United States",31.18,-83.79
+182,Athens,GA,"Athens, GA","Athens-Clarke County Unified Government, Athens-Clarke County, Georgia, United States",33.96,-83.38
+185,Lehigh Acres,FL,"Lehigh Acres, FL","Lehigh Acres, Lee County, Florida, United States",26.61,-81.65
+186,Pineville,NC,"Pineville, NC","Pineville, Mecklenburg County, North Carolina, United States",35.09,-80.89
+188,Pottstown,PA,"Pottstown, PA","Pottstown, Montgomery County, Pennsylvania, 19464, United States",40.25,-75.65
+193,Kingsport,TN,"Kingsport, TN","Kingsport, Sullivan County, East Tennessee, Tennessee, United States",36.55,-82.56
+194,Staten Island,NY,"Staten Island, NY","Staten Island, City of New York, New York, United States",40.58,-74.15
+200,Tallahassee,FL,"Tallahassee, FL","Tallahassee, Leon County, Florida, United States",30.44,-84.28
+207,Charlotte,VT,"Charlotte, VT","Charlotte, Chittenden County, Vermont, 05445, United States",44.31,-73.25
+208,Amarillo,TX,"Amarillo, TX","Amarillo, Potter County, Texas, United States",35.21,-101.83
+212,Temple,TX,"Temple, TX","Temple, Bell County, Texas, United States",31.1,-97.34
+214,Pompano Beach,FL,"Pompano Beach, FL","Pompano Beach, Broward County, Florida, United States",26.24,-80.12
+219,Broadview Heights,OH,"Broadview Heights, OH","Broadview Heights, Cuyahoga County, Ohio, 44147, United States",41.31,-81.69
+221,Tacoma,WA,"Tacoma, WA","Tacoma, Pierce County, Washington, United States",47.25,-122.44
+228,Cincinnati,OH,"Cincinnati, OH","Cincinnati, Hamilton County, Ohio, 45202, United States",39.1,-84.51
+231,Surprise,AZ,"Surprise, AZ","Surprise, Maricopa County, Arizona, United States",33.63,-112.37
+234,Yonkers,NY,"Yonkers, NY","City of Yonkers, Westchester County, New York, United States",40.93,-73.9
+236,Pasadena,CA,"Pasadena, CA","Pasadena, Los Angeles County, California, United States",34.15,-118.14
+240,Kingwood,TX,"Kingwood, TX","Kingwood Park High School, 4015, Woodland Hills Drive, Kingwood, Houston, Montgomery County, Texas, 77339, United States",30.07,-95.21
+249,Sachse,TX,"Sachse, TX","Sachse High School, 3901 Miles, Miles Road, Sachse, Dallas County, Texas, 75044, United States",32.96,-96.59
+251,Helotes,TX,"Helotes, TX","Helotes, Bexar County, Texas, 78023, United States",29.56,-98.69
+255,Oakland,CA,"Oakland, CA","Oakland, Alameda County, California, United States",37.8,-122.27
+257,Buffalo,NY,"Buffalo, NY","Buffalo, Erie County, New York, United States",42.89,-78.88
+259,Bryan,TX,"Bryan, TX","Bryan, Brazos County, Texas, United States",30.67,-96.37
+261,Peoria,AZ,"Peoria, AZ","Peoria, Maricopa County, Arizona, United States",33.58,-112.24
+263,San Marino,CA,"San Marino, CA","San Marino, Los Angeles County, California, 91108, United States",34.12,-118.11
+264,Sterling Heights,MI,"Sterling Heights, MI","Sterling Heights, Macomb County, Michigan, United States",42.58,-83.03
+278,Binghamton,NY,"Binghamton, NY","Binghamton, City of Binghamton, Broome County, New York, 13903, United States",42.1,-75.91
+281,Olmsted Falls,OH,"Olmsted Falls, OH","Olmsted Falls, Cuyahoga County, Ohio, United States",41.38,-81.91
+285,Irving,TX,"Irving, TX","Irving, Dallas County, Texas, United States",32.83,-96.94
+290,Harker Heights,TX,"Harker Heights, TX","Harker Heights, Bell County, Texas, 76548, United States",31.07,-97.66
+293,Pensacola,FL,"Pensacola, FL","Pensacola, Escambia County, Florida, United States",30.42,-87.22
+300,Little Neck,NY,"Little Neck, NY","Little Neck, 39th Road, Westmoreland, Queens, City of New York, New York, 11363, United States",40.77,-73.74
+303,Kirkland,WA,"Kirkland, WA","Kirkland, King County, Washington, United States",47.68,-122.21
+304,Punta Gorda,FL,"Punta Gorda, FL","Punta Gorda, Charlotte County, Florida, United States",26.93,-82.05
+306,Mercer Island,WA,"Mercer Island, WA","Mercer Island, King County, Washington, 98040, United States",47.56,-122.22
+310,Goodyear,AZ,"Goodyear, AZ","Goodyear, Maricopa County, Arizona, 85395, United States",33.41,-112.39
+312,Riverside,CA,"Riverside, CA","Riverside, Riverside County, California, United States",33.95,-117.4
+322,Litchfield Park,AZ,"Litchfield Park, AZ","Litchfield Park, Maricopa County, Arizona, 85340, United States",33.49,-112.36
+325,Bethesda,MD,"Bethesda, MD","Bethesda, Montgomery County, Maryland, United States",38.98,-77.12
+328,Inlet Beach,FL,"Inlet Beach, FL","Inlet Beach, Rosemary Beach, Walton County, Florida, 32461, United States",30.28,-86.01
+329,Round Rock,TX,"Round Rock, TX","Round Rock, Williamson County, Texas, United States",30.51,-97.68
+330,Denver,CO,"Denver, CO","Denver, Colorado, United States",39.74,-104.98
+335,Swanton,VT,"Swanton, VT","Swanton, Franklin County, Vermont, 05488, United States",44.92,-73.12
+338,Navasota,TX,"Navasota, TX","Navasota, Grimes County, 77868, United States",30.39,-96.09
+340,Cleveland,GA,"Cleveland, GA","Cleveland, White County, Georgia, 30528, United States",34.6,-83.76
+341,Longmont,CO,"Longmont, CO","Longmont, Boulder County, Colorado, 80501, United States",40.17,-105.1
+344,Winston Salem,NC,"Winston Salem, NC","Winston-Salem, Forsyth County, North Carolina, United States",36.1,-80.24
+346,Escondido,CA,"Escondido, CA","Escondido, San Diego County, California, United States",33.12,-117.08
+349,Asheville,NC,"Asheville, NC","Asheville, Buncombe County, North Carolina, United States",35.6,-82.55
+354,Richmond,TX,"Richmond, TX","Richmond, Fort Bend County, 44769, United States",29.58,-95.76
+357,Pearland,TX,"Pearland, TX","Pearland, Brazoria County, Texas, 77581, United States",29.56,-95.29
+362,Clarksville,TN,"Clarksville, TN","Clarksville, Montgomery County, Middle Tennessee, Tennessee, United States",36.53,-87.36
+364,Hixson,TN,"Hixson, TN","Hixson Marina, Hamilton County, East Tennessee, Tennessee, 37344, United States",35.14,-85.17
+366,Brooksville,FL,"Brooksville, FL","Brooksville, Hernando County, Florida, United States",28.56,-82.39
+371,Monterey Park,CA,"Monterey Park, CA","Monterey Park, Los Angeles County, California, United States",34.05,-118.13
+372,Moreno Valley,CA,"Moreno Valley, CA","Moreno Valley, Riverside County, California, United States",33.94,-117.23
+374,Olympia,WA,"Olympia, WA","Olympia, Thurston County, Washington, United States",47.05,-122.9
+378,Boston,MA,"Boston, MA","Boston, Suffolk County, Massachusetts, United States",42.36,-71.06
+386,Forest Hills,NY,"Forest Hills, NY","Forest Hills, 71st Avenue, Forest Hills Gardens, Queens, City of New York, New York, 11375, United States",40.72,-73.84
+389,Hastings,MI,"Hastings, MI","Hastings, Dakota County, Minnesota, 55033, United States",44.74,-92.85
+394,Astoria,NY,"Astoria, NY","Astoria, Queens County, City of New York, New York, 11102, United States",40.77,-73.93
+395,Murrieta,CA,"Murrieta, CA","Murrieta, Riverside County, California, United States",33.56,-117.21
+405,Anaheim,CA,"Anaheim, CA","Anaheim, Orange County, California, United States",33.83,-117.91
+406,Waddell,AZ,"Waddell, AZ","Waddell, Maricopa County, Arizona, 85388, United States",33.61,-112.43
+436,Bothell,WA,"Bothell, WA","Bothell, King County, Washington, United States",47.76,-122.21
+438,Sarasota,FL,"Sarasota, FL","Sarasota, Sarasota County, Florida, United States",27.34,-82.53
+443,Ringgold,GA,"Ringgold, GA","Ringgold, Catoosa County, Georgia, United States",34.92,-85.11
+445,Raleigh,NC,"Raleigh, NC","Raleigh, Wake County, North Carolina, United States",35.78,-78.64
+446,Long Beach,CA,"Long Beach, CA","Long Beach, Los Angeles County, California, United States",33.77,-118.19
+447,Vancouver,WA,"Vancouver, WA","Vancouver, Clark County, Washington, United States",45.63,-122.67
+448,Wilmington,NC,"Wilmington, NC","Wilmington, New Hanover County, North Carolina, United States",34.23,-77.94
+452,Matthews,NC,"Matthews, NC","Matthews, Mecklenburg County, North Carolina, 28105, United States",35.12,-80.72
+461,Springfield,IL,"Springfield, IL","Springfield, Sangamon County, Illinois, United States",39.8,-89.64
+469,South Ozone Park,NY,"South Ozone Park, NY","South Ozone Park, Queens County, City of New York, New York, 11420, United States",40.67,-73.82
+472,Aurora,CO,"Aurora, CO","Aurora, Aurora Township, Kane County, Illinois, United States",41.76,-88.31
+478,Sun Valley,CA,"Sun Valley, CA","Sun Valley, Los Angeles, Los Angeles County, California, 91352, United States",34.22,-118.39
+482,La Jolla,CA,"La Jolla, CA","La Jolla, San Diego, San Diego County, California, 92037, United States",32.84,-117.27
+486,Phoenix,AZ,"Phoenix, AZ","Phoenix, Maricopa County, Arizona, United States",33.45,-112.07
+487,Van Nuys,CA,"Van Nuys, CA","Van Nuys Neighborhood Council District, Los Angeles, Los Angeles County, California, 91411, United States",34.19,-118.45
+490,Canyon Country,CA,"Canyon Country, CA","Canyon Country, Santa Clarita, Los Angeles County, California, 91351, United States",34.42,-118.47
+492,Knoxville,TN,"Knoxville, TN","Knoxville, Knox County, East Tennessee, Tennessee, United States",35.96,-83.92
+502,Ashville,OH,"Ashville, OH","Ashville, Pickaway County, Ohio, 43103, United States",39.72,-82.95
+508,Antioch,CA,"Antioch, CA","Antioch, Contra Costa County, California, United States",38.0,-121.81
+516,League City,TX,"League City, TX","League City, Galveston County, Texas, 77573, United States",29.51,-95.09
+518,Converse,TX,"Converse, TX","Converse, Bexar County, Texas, 78109, United States",29.52,-98.32
+522,Jamaica,NY,"Jamaica, NY","Jamaica, Queens County, City of New York, New York, 11435, United States",40.7,-73.8
+524,Irvine,CA,"Irvine, CA","Irvine, Orange County, California, United States",33.69,-117.83
+531,Tujunga,CA,"Tujunga, CA","Tujunga, Los Angeles, Los Angeles County, California, 91042, United States",34.25,-118.29
+540,Reddick,FL,"Reddick, FL","Reddick, Marion County, Florida, United States",29.37,-82.2
+541,Chatsworth,CA,"Chatsworth, CA","Chatsworth, Los Angeles, Los Angeles County, California, 91311, United States",34.26,-118.6
+542,Corpus Christi,TX,"Corpus Christi, TX","Corpus Christi, Nueces County, Texas, United States",27.76,-97.4
+546,Yakima,WA,"Yakima, WA","Yakima, Washington, United States",46.6,-120.51
+551,West Hollywood,CA,"West Hollywood, CA","West Hollywood, Los Angeles County, California, United States",34.09,-118.37
+554,Ontario,CA,"Ontario, CA","Ontario, Canada",50.0,-86.0
+555,Huntersville,NC,"Huntersville, NC","Huntersville, Mecklenburg County, North Carolina, United States",35.41,-80.84
+557,Garland,TX,"Garland, TX","Garland, Dallas County, Texas, United States",32.91,-96.64
+564,Fayetteville,NC,"Fayetteville, NC","Fayetteville, Cumberland County, North Carolina, United States",35.05,-78.88
+570,Salt Lake City,UT,"Salt Lake City, UT","Salt Lake City, Salt Lake County, Utah, United States",40.76,-111.89
+574,Longview,TX,"Longview, TX","Longview, East Pacific Avenue, Longview, Gregg County, 75601, United States",32.49,-94.73
+584,Gastonia,NC,"Gastonia, NC","Gastonia, Gaston County, North Carolina, United States",35.26,-81.18
+588,San Francisco,CA,"San Francisco, CA","San Francisco, California, United States",37.78,-122.42
+589,Boulder,CO,"Boulder, CO","Boulder, Boulder County, Colorado, United States",40.01,-105.27
+606,Buckeye,AZ,"Buckeye, AZ","Buckeye, Maricopa County, Arizona, United States",33.37,-112.58
+613,College Point,NY,"College Point, NY","College Point, Queens County, City of New York, New York, 11356, United States",40.79,-73.85
+617,Soddy Daisy,TN,"Soddy Daisy, TN","Soddy-Daisy, Hamilton County, East Tennessee, Tennessee, United States",35.24,-85.19
+622,Bellevue,WA,"Bellevue, WA","Bellevue, King County, Washington, United States",47.61,-122.19
+623,Panama City,FL,"Panama City, FL","Panama City, Bay County, Florida, United States",30.16,-85.65
+626,Vacaville,CA,"Vacaville, CA","Vacaville, Solano County, California, United States",38.36,-121.99
+628,Mooresville,NC,"Mooresville, NC","Mooresville, Iredell County, North Carolina, 28115, United States",35.58,-80.81
+630,Macon,GA,"Macon, GA","Macon, Bibb County, Georgia, United States",32.84,-83.63
+631,South Lyon,MI,"South Lyon, MI","South Lyon, Oakland County, Michigan, 48178, United States",42.45,-83.66
+640,University Place,WA,"University Place, WA","University Place, Tacoma, Pierce County, Washington, 98466, United States",47.24,-122.55
+642,Cherryville,NC,"Cherryville, NC","Cherryville, Gaston County, North Carolina, 28021, United States",35.38,-81.38
+643,Santa Ana,CA,"Santa Ana, CA","Santa Ana, Orange County, California, United States",33.75,-117.87
+649,Antioch,TN,"Antioch, TN","Antioch, Nashville-Davidson, Davidson County, Middle Tennessee, Tennessee, 37011, United States",36.06,-86.67
+653,West Covina,CA,"West Covina, CA","West Covina, Los Angeles County, California, United States",34.07,-117.94
+668,Cleveland,TN,"Cleveland, TN","Cleveland, Bradley County, East Tennessee, Tennessee, United States",35.16,-84.88
+676,Bellingham,WA,"Bellingham, WA","Bellingham, Whatcom County, Washington, United States",48.75,-122.48
+683,Ventura,CA,"Ventura, CA","Ventura County, California, United States",34.45,-119.08
+685,Laredo,TX,"Laredo, TX","Laredo, Webb County, Texas, United States",27.5,-99.51
+689,Newport,NY,"Newport, NY","Town of Newport, Herkimer County, New York, 13431, United States",43.19,-75.01
+698,Capitol Heights,MD,"Capitol Heights, MD","Capitol Heights, Prince George's County, Maryland, United States",38.88,-76.91
+699,Mount Holly,NC,"Mount Holly, NC","Mount Holly, Gaston County, North Carolina, 28120, United States",35.3,-81.02
+704,Independence,OH,"Independence, OH","Independence, Cuyahoga County, Ohio, United States",41.38,-81.64
+711,Edinburg,TX,"Edinburg, TX","Edinburg, Hidalgo County, Texas, United States",26.3,-98.16
+713,Winnetka,CA,"Winnetka, CA","Winnetka, Los Angeles, Los Angeles County, California, 91306, United States",34.2,-118.57
+719,Midland,TX,"Midland, TX","Homewood Suites by Hilton Midland, TX, Tradewinds Boulevard, Westridge Park, Midland, Midland County, 77906, United States",31.99,-102.16
+730,Roanoke,TX,"Roanoke, TX","Roanoke, Greater Fifth Ward, Houston, Harris County, Texas, 77003, United States",29.77,-95.34
+735,Concord,NC,"Concord, NC","Concord, Cabarrus County, North Carolina, United States",35.41,-80.58
+736,Allentown,PA,"Allentown, PA","Allentown, Lehigh County, Pennsylvania, United States",40.6,-75.47
+741,Ocklawaha,FL,"Ocklawaha, FL","Ocklawaha, Marion County, Florida, 34483, United States",29.04,-81.93
+743,Lakeland,FL,"Lakeland, FL","Lakeland, Polk County, Florida, United States",28.04,-81.95
+756,Ferndale,MI,"Ferndale, MI","Ferndale, Oakland County, Michigan, 48220, United States",42.46,-83.13
+768,Saint Albans,NY,"Saint Albans, NY","Saint Albans, Queens County, City of New York, New York, 11412, United States",40.7,-73.76
+772,Clinton,MD,"Clinton, MD","Clinton, Prince George's County, Maryland, 20735, United States",38.75,-76.9
+778,Lakewood,WA,"Lakewood, WA","Lakewood, Pierce County, Washington, United States",47.17,-122.52
+779,Gainesville,FL,"Gainesville, FL","Gainesville, Alachua County, Florida, United States",29.65,-82.32
+792,Strongsville,OH,"Strongsville, OH","Strongsville, Cuyahoga County, Ohio, United States",41.31,-81.84
+794,Silver Springs,FL,"Silver Springs, FL","Silver Springs, Marion County, Florida, 34470, United States",29.22,-82.06
+795,Roseville,CA,"Roseville, CA","Roseville, Placer County, California, United States",38.75,-121.29
+796,East Boston,MA,"East Boston, MA","East Boston, Boston, Suffolk County, Massachusetts, 02128, United States",42.38,-71.04
+800,Pacoima,CA,"Pacoima, CA","Pacoima Neighborhood Council, Los Angeles, Los Angeles County, California, 91331, United States",34.26,-118.43
+813,Arlington,VA,"Arlington, VA","Arlington County, Virginia, United States",38.88,-77.09
+827,Franklin,TN,"Franklin, TN","Franklin, Williamson County, Middle Tennessee, Tennessee, United States",35.93,-86.87
+835,Joelton,TN,"Joelton, TN","Joelton, Nashville-Davidson, Davidson County, Middle Tennessee, Tennessee, 37080, United States",36.31,-86.87
+843,Commerce City,CO,"Commerce City, CO","Commerce City, Adams County, Colorado, 80640, United States",39.81,-104.93
+857,Bonita Springs,FL,"Bonita Springs, FL","Bonita Springs, Lee County, Florida, United States",26.34,-81.78
+860,Gainesville,GA,"Gainesville, GA","Gainesville, Hall County, Georgia, United States",34.3,-83.82
+865,Syracuse,NY,"Syracuse, NY","City of Syracuse, Onondaga County, New York, United States",43.05,-76.15
+875,Brighton,CO,"Brighton, CO","Brighton, Adams County, Colorado, United States",39.98,-104.81
+877,Chula Vista,CA,"Chula Vista, CA","Chula Vista, San Diego County, California, United States",32.64,-117.08
+902,Anthony,FL,"Anthony, FL","Anthony, Marion County, Florida, 32617, United States",29.29,-82.11
+903,El Cajon,CA,"El Cajon, CA","El Cajon, San Diego County, California, United States",32.79,-116.96
+905,Oak Park,MI,"Oak Park, MI","Oak Park, Cook County, Illinois, United States",41.89,-87.79
+906,Enosburg Falls,VT,"Enosburg Falls, VT","Enosburg Falls, Enosburgh, Franklin County, Vermont, 05450, United States",44.9,-72.81
+910,Placida,FL,"Placida, FL","Placida, Charlotte County, Florida, 33946, United States",26.83,-82.26
+914,Essex Junction,VT,"Essex Junction, VT","Essex Junction, Chittenden County, Vermont, United States",44.49,-73.11
+927,Everett,WA,"Everett, WA","Everett, Snohomish County, Washington, United States",47.98,-122.21
+941,Little Falls,NY,"Little Falls, NY","City of Little Falls, Herkimer County, New York, 13365, United States",43.04,-74.86
+958,Thornton,IL,"Thornton, IL","Thornton, Thornton Township, Cook County, Illinois, 60476, United States",41.57,-87.61
+967,Renton,WA,"Renton, WA","Renton, King County, Washington, United States",47.48,-122.2
+971,Huffman,TX,"Huffman, TX","FM 1960 East, The West of Atascocita, Harris County, Texas, 77346, United States",30.0,-95.19
+977,Rego Park,NY,"Rego Park, NY","Rego Park, Queens County, City of New York, New York, 11374, United States",40.72,-73.86
+978,Victorville,CA,"Victorville, CA","Victorville, San Bernardino County, California, United States",34.54,-117.29
+981,Albion,MI,"Albion, MI","Albion, Calhoun County, Michigan, 49224, United States",42.24,-84.75
+982,Auburn,WA,"Auburn, WA","Auburn, King County, Washington, United States",47.31,-122.23
+983,Coral Springs,FL,"Coral Springs, FL","Coral Springs, Broward County, Florida, United States",26.27,-80.27
+985,Englewood,FL,"Englewood, FL","Englewood, Sarasota County, Florida, 34223, United States",26.96,-82.36
+989,Happy Valley,OR,"Happy Valley, OR","Happy Valley, Clackamas County, Oregon, 97086, United States",45.43,-122.5
+993,Richardson,TX,"Richardson, TX","Richardson, Dallas County, Texas, United States",32.95,-96.73
+1019,Hazard,KY,"Hazard, KY","Hazard, Perry County, Kentucky, United States",37.25,-83.19
+1021,Canton,OH,"Canton, OH","Canton, Stark County, Ohio, United States",40.8,-81.37
+1025,North Richland Hills,TX,"North Richland Hills, TX","North Richland Hills, Tarrant County, Texas, United States",32.83,-97.23
+1031,Saint Louis,MO,"Saint Louis, MO","Saint Louis, Missouri, United States",38.63,-90.19
+1047,Los Fresnos,TX,"Los Fresnos, TX","Los Fresnos Canal, Brownsville, Cameron County, Texas, 78520, United States",25.95,-97.54
+1052,Vista,CA,"Vista, CA","Vista, San Diego County, California, United States",33.2,-117.24
+1057,Suitland,MD,"Suitland, MD","Suitland, Prince George's County, Maryland, United States",38.85,-76.93
+1059,Chickamauga,GA,"Chickamauga, GA","Chickamauga, Walker County, Georgia, United States",34.87,-85.29
+1072,Woodway,TX,"Woodway, TX","Woodway, McLennan County, Texas, 76712, United States",31.51,-97.21
+1073,Norwalk,CA,"Norwalk, CA","Norwalk, Los Angeles County, California, 90650, United States",33.91,-118.08
+1075,Denton,TX,"Denton, TX","Denton County, Texas, United States",33.18,-97.14
+1083,Fullerton,CA,"Fullerton, CA","Fullerton, Orange County, California, United States",33.87,-117.93
+1085,Cleveland,NC,"Cleveland, NC","Cleveland, Rowan County, North Carolina, United States",35.73,-80.68
+1090,Mcallen,TX,"Mcallen, TX","McAllen, Hidalgo County, Texas, United States",26.2,-98.23
+1098,Rialto,CA,"Rialto, CA","Rialto, San Bernardino County, California, United States",34.11,-117.37
+1102,Brentwood,TN,"Brentwood, TN","Brentwood, Williamson County, Middle Tennessee, Tennessee, 37027, United States",36.03,-86.78
+1114,Lakewood,OH,"Lakewood, OH","Lakewood, Cuyahoga County, Ohio, 44107, United States",41.48,-81.8
+1122,Beachwood,OH,"Beachwood, OH","Beachwood, Cuyahoga County, Ohio, 44122, United States",41.46,-81.51
+1146,North Fort Myers,FL,"North Fort Myers, FL","North Fort Myers, Fort Myers, Lee County, Florida, 33903, United States",26.71,-81.81
+1160,Saluda,NC,"Saluda, NC","Saluda, Polk County, North Carolina, 28773, United States",35.24,-82.35
+1176,Haslet,TX,"Haslet, TX","Haslet Parkway, Haslet, Tarrant County, Texas, 76177, United States",32.96,-97.31
+1181,Fairfield,VA,"Fairfield, VA","Fairfield, Kempsville, Virginia Beach, Virginia, 23464, United States",36.82,-76.17
+1189,Thornville,OH,"Thornville, OH","Thornville, Perry County, Ohio, United States",39.9,-82.42
+1200,Downey,CA,"Downey, CA","Downey, Los Angeles County, California, United States",33.94,-118.13
+1230,Germantown,TN,"Germantown, TN","Germantown, Shelby County, West Tennessee, Tennessee, United States",35.09,-89.81
+1235,Hendersonville,TN,"Hendersonville, TN","Hendersonville, Sumner County, Middle Tennessee, Tennessee, United States",36.3,-86.62
+1254,Sunnyvale,CA,"Sunnyvale, CA","Sunnyvale, Santa Clara County, California, United States",37.37,-122.04
+1265,Glendale,CA,"Glendale, CA","Glendale, Los Angeles County, California, United States",34.15,-118.25
+1276,Garden Grove,CA,"Garden Grove, CA","Garden Grove, Orange County, California, United States",33.77,-117.95
+1292,Arcadia,FL,"Arcadia, FL","Arcadia, DeSoto County, Florida, United States",27.22,-81.86
+1296,Milwaukee,WI,"Milwaukee, WI","Milwaukee, Milwaukee County, Wisconsin, United States",43.03,-87.92
+1297,Colorado Springs,CO,"Colorado Springs, CO","Colorado Springs, El Paso County, Colorado, United States",38.83,-104.83
+1301,Lakewood,CA,"Lakewood, CA","Lakewood, Los Angeles County, California, United States",33.85,-118.12
+1305,Springfield,MA,"Springfield, MA","Springfield, Hampden County, Massachusetts, United States",42.1,-72.59
+1308,Hermitage,TN,"Hermitage, TN","Hermitage, Nashville-Davidson, Davidson County, Middle Tennessee, Tennessee, 37076, United States",36.2,-86.62
+1315,Broomfield,CO,"Broomfield, CO","Broomfield, Colorado, United States",39.94,-105.05
+1319,Deltona,FL,"Deltona, FL","Deltona, Volusia County, Florida, United States",28.9,-81.26
+1324,Jamaica Plain,MA,"Jamaica Plain, MA","Jamaica Plain, Boston, Suffolk County, Massachusetts, 02130, United States",42.31,-71.11
+1325,Chevy Chase,MD,"Chevy Chase, MD","Chevy Chase, Montgomery County, Maryland, 20815, United States",38.98,-77.08
+1332,Bloomington,IN,"Bloomington, IN","Bloomington, Monroe County, Indiana, United States",39.17,-86.53
+1349,Rocky River,OH,"Rocky River, OH","Rocky River, Cuyahoga County, Ohio, 44116, United States",41.48,-81.84
+1356,Murfreesboro,TN,"Murfreesboro, TN","Murfreesboro, Rutherford County, Middle Tennessee, Tennessee, United States",35.85,-86.39
+1357,Farragut,TN,"Farragut, TN","Farragut, Knox County, East Tennessee, Tennessee, 37934, United States",35.88,-84.15
+1368,Jacksonville Beach,FL,"Jacksonville Beach, FL","Jacksonville Beach, Duval County, Florida, 32250, United States",30.29,-81.39
+1384,Newhall,CA,"Newhall, CA","Newhall, Santa Clarita, Los Angeles County, California, 91321, United States",34.38,-118.53
+1392,Ooltewah,TN,"Ooltewah, TN","Ooltewah, Hamilton County, East Tennessee, Tennessee, United States",35.07,-85.09
+1393,Leesburg,FL,"Leesburg, FL","Leesburg, Lake County, Florida, 34762, United States",28.81,-81.88
+1405,Oceanside,CA,"Oceanside, CA","Oceanside, San Diego County, California, United States",33.2,-117.38
+1407,Lancaster,OH,"Lancaster, OH","Lancaster, Fairfield County, Ohio, 43130, United States",39.71,-82.6
+1417,Carrollton,TX,"Carrollton, TX","Downtown Carrollton Station, North Broadway Street, Carrollton, Dallas County, Texas, 75006, United States",32.95,-96.91
+1427,Jurupa Valley,CA,"Jurupa Valley, CA","Jurupa Valley, Riverside County, California, 92509, United States",33.98,-117.45
+1443,Woodhaven,NY,"Woodhaven, NY","Woodhaven, Queens County, City of New York, New York, 11421, United States",40.69,-73.86
+1445,Youngstown,OH,"Youngstown, OH","Youngstown, Mahoning County, Ohio, United States",41.1,-80.65
+1455,Lubbock,TX,"Lubbock, TX","Lubbock, Lubbock County, Texas, United States",33.56,-101.88
+1456,Crystal Lake,IL,"Crystal Lake, IL","Crystal Lake, McHenry County, Illinois, 60014, United States",42.24,-88.32
+1485,Huntley,IL,"Huntley, IL","Huntley, McHenry County, Illinois, United States",42.17,-88.43
+1492,Marina Del Rey,CA,"Marina Del Rey, CA","Marina del Rey, Los Angeles County, California, 90292, United States",33.98,-118.45
+1497,Morriston,FL,"Morriston, FL","Morriston, Levy County, Florida, United States",29.28,-82.44
+1508,Brownsville,TX,"Brownsville, TX","Brownsville, Cameron County, Texas, United States",25.91,-97.49
+1518,Ashland City,TN,"Ashland City, TN","Ashland City, Cheatham County, Middle Tennessee, Tennessee, 37015, United States",36.27,-87.06
+1543,Puyallup,WA,"Puyallup, WA","Puyallup, Pierce County, Washington, United States",47.18,-122.29
+1545,Toledo,OH,"Toledo, OH","Toledo, Lucas County, Ohio, United States",41.65,-83.54
+1552,Tarzana,CA,"Tarzana, CA","Tarzana, Los Angeles, Los Angeles County, California, 91356, United States",34.17,-118.54
+1588,Redding,CA,"Redding, CA","Redding, Shasta County, California, United States",40.59,-122.39
+1589,Bremerton,WA,"Bremerton, WA","Bremerton, Kitsap County, Washington, United States",47.57,-122.62
+1594,High Point,NC,"High Point, NC","High Point, Guilford County, North Carolina, United States",35.96,-80.01
+1603,Hollis,NY,"Hollis, NY","Hollis, Queens County, City of New York, New York, 11423, United States",40.71,-73.77
+1610,Brecksville,OH,"Brecksville, OH","Brecksville, Cuyahoga County, Ohio, 44141, United States",41.32,-81.63
+1617,Vallejo,CA,"Vallejo, CA","Vallejo, Solano County, California, United States",38.1,-122.26
+1630,Bakersfield,CA,"Bakersfield, CA","Bakersfield, Kern County, California, United States",35.37,-119.02
+1632,Whitwell,TN,"Whitwell, TN","Whitwell, Marion County, East Tennessee, Tennessee, 37397, United States",35.2,-85.52
+1637,Bay Village,OH,"Bay Village, OH","Bay Village, Wolf Road, Bay Village, Cuyahoga County, Ohio, 44140, United States",41.48,-81.92
+1641,Lynnwood,WA,"Lynnwood, WA","Lynnwood, Snohomish County, Washington, 98037, United States",47.83,-122.31
+1648,Fairfield,CA,"Fairfield, CA","Fairfield, Solano County, California, United States",38.25,-122.04
+1651,Brandon,FL,"Brandon, FL","Brandon, Hillsborough County, Florida, United States",27.93,-82.29
+1670,Albany,NY,"Albany, NY","City of Albany, Albany County, New York, United States",42.65,-73.75
+1678,Lancaster,CA,"Lancaster, CA","Lancaster, Los Angeles County, California, United States",34.7,-118.14
+1688,Corona,NY,"Corona, NY","Corona, Queens County, City of New York, New York, 11368, United States",40.75,-73.86
+1689,Sun City West,AZ,"Sun City West, AZ","Sun City West, Surprise, Maricopa County, Arizona, United States",33.67,-112.36
+1738,South Richmond Hill,NY,"South Richmond Hill, NY","Park Lane South, Richmond Hill, Queens County, City of New York, New York, 11418, United States",40.7,-73.84
+1757,Youngtown,AZ,"Youngtown, AZ","Youngtown, Maricopa County, Arizona, 85363, United States",33.59,-112.3
+1766,Marysville,WA,"Marysville, WA","Marysville, Snohomish County, Washington, United States",48.05,-122.18
+1790,Iowa Falls,IA,"Iowa Falls, IA","Iowa Falls, Hardin County, Iowa, 50126, United States",42.52,-93.26
+1807,Madison,TN,"Madison, TN","Madison County, West Tennessee, Tennessee, United States",35.61,-88.85
+1809,Pegram,TN,"Pegram, TN","Pegram, Cheatham County, Middle Tennessee, Tennessee, 37143, United States",36.1,-87.05
+1811,La Vergne,TN,"La Vergne, TN","La Vergne, Rutherford County, Middle Tennessee, Tennessee, United States",36.02,-86.58
+1812,Venice,CA,"Venice, CA","Venice, Los Angeles, Los Angeles County, California, 90291, United States",34.0,-118.47
+1854,Kent,WA,"Kent, WA","Kent, King County, Washington, United States",47.38,-122.23
+1865,Hampton,IA,"Hampton, IA","Hampton, Franklin County, Iowa, 50441, United States",42.74,-93.21
+1871,Savannah,GA,"Savannah, GA","Savannah, Chatham County, Georgia, United States",32.08,-81.09
+1873,Boca Grande,FL,"Boca Grande, FL","Boca Grande, Lee County, Florida, 33921, United States",26.75,-82.26
+1879,Fresh Meadows,NY,"Fresh Meadows, NY","Fresh Meadows, Queens County, City of New York, New York, 11365, United States",40.73,-73.79
+1890,Fox Island,WA,"Fox Island, WA","Fox Island, Pierce County, Washington, 98333, United States",47.25,-122.62
+1903,Bellaire,TX,"Bellaire, TX","Bellaire, West Grand Parkway South, Meadows of Parkway Lakes, Fort Bend County, 77406, United States",29.69,-95.77
+1905,Torrance,CA,"Torrance, CA","Torrance, Los Angeles County, California, United States",33.84,-118.34
+1918,Greenville,NC,"Greenville, NC","Greenville, Pitt County, North Carolina, United States",35.61,-77.37
+1920,Fairfield,NJ,"Fairfield, NJ","Fairfield, Howell Township, Monmouth County, New Jersey, 07710, United States",40.21,-74.21
+1921,Fontana,CA,"Fontana, CA","Fontana, San Bernardino County, California, United States",34.09,-117.44
+1925,Suquamish,WA,"Suquamish, WA","Port Madison Indian Reservation, Kitsap County, Washington, United States",47.73,-122.55
+1940,Lake In The Hills,IL,"Lake In The Hills, IL","Lake in the Hills, McHenry County, Illinois, 60156, United States",42.18,-88.33
+1942,Burbank,CA,"Burbank, CA","Burbank, Los Angeles County, California, United States",34.18,-118.31
+1946,Anderson,TX,"Anderson, TX","Anderson County, Texas, United States",31.78,-95.63
+1957,Harrison,TN,"Harrison, TN","Harrison, Harrison Point, Hamilton County, East Tennessee, Tennessee, United States",35.13,-85.14
+1967,Beaumont,TX,"Beaumont, TX","United States Penitentiary, Beaumont, 6200, Knauth Road, Beaumont, Jefferson County, 77705, United States",29.96,-94.08
+1968,Norridgewock,ME,"Norridgewock, ME","Norridgewock, Somerset County, Maine, 04957, United States",44.71,-69.79
+1985,Rockford,IL,"Rockford, IL","Rockford, Rockford Township, Winnebago County, Illinois, United States",42.27,-89.09
+1988,Pataskala,OH,"Pataskala, OH","Pataskala, Licking County, Ohio, United States",40.0,-82.67
+1990,Evansville,IN,"Evansville, IN","Evansville, Vanderburgh County, Indiana, United States",37.97,-87.56
+1992,Long Island City,NY,"Long Island City, NY","Long Island City, Borden Avenue, Hunters Point, Queens, City of New York, New York, 11109, United States",40.74,-73.96
+1993,Conroe,TX,"Conroe, TX","Conroe, Montgomery County, Texas, United States",30.31,-95.46
+1995,Osterville,MA,"Osterville, MA","Osterville, Oysterville, Barnstable, Barnstable County, Massachusetts, 02655, United States",41.63,-70.39
+1999,Cary,NC,"Cary, NC","Cary, Wake County, North Carolina, United States",35.79,-78.78
+2001,Port Arthur,TX,"Port Arthur, TX","Port Arthur, Jefferson County, Texas, United States",29.9,-93.93
+2042,Barnstable,MA,"Barnstable, MA","Barnstable County, Massachusetts, United States",41.67,-70.35
+2059,Lansing,MI,"Lansing, MI","Lansing, Ingham County, Michigan, United States",42.73,-84.56
+2076,Lithopolis,OH,"Lithopolis, OH","Lithopolis, Fairfield County, Ohio, 43136, United States",39.8,-82.81
+2089,Chimney Rock,NC,"Chimney Rock, NC","Chimney Rock, Rutherford County, North Carolina, 28720, United States",35.43,-82.25
+2090,Henderson,NV,"Henderson, NV","Henderson, Clark County, Nevada, United States",36.03,-114.98
+2091,Independence,MO,"Independence, MO","Independence, Jackson County, Missouri, United States",39.09,-94.41
+2112,Winter Haven,FL,"Winter Haven, FL","Winter Haven, Polk County, Florida, United States",28.02,-81.73
+2118,Key Biscayne,FL,"Key Biscayne, FL","Key Biscayne, Miami-Dade County, Florida, 33149, United States",25.7,-80.16
+2121,Keller,TX,"Keller, TX","Keller, Tarrant County, Texas, 76248, United States",32.93,-97.23
+2147,Suisun City,CA,"Suisun City, CA","Suisun City, Solano County, California, 94585, United States",38.24,-122.04
+2176,Englewood,CO,"Englewood, CO","Englewood, Arapahoe County, Colorado, 80110, United States",39.65,-104.99
+2180,Dunnellon,FL,"Dunnellon, FL","Dunnellon, Marion County, Florida, United States",29.05,-82.46
+2181,Golden,CO,"Golden, CO","Golden, Jefferson County, Colorado, United States",39.75,-105.22
+2204,Woodland Hills,CA,"Woodland Hills, CA","Woodland Hills, Los Angeles, Los Angeles County, California, 91364, United States",34.17,-118.61
+2209,Plano,TX,"Plano, TX","Plano West Senior High School, 5601, West Parker Road, Plano, Collin County, 75093, United States",33.05,-96.81
+2218,Johnson City,TN,"Johnson City, TN","Johnson City, Washington County, East Tennessee, Tennessee, United States",36.31,-82.35
+2236,Abilene,TX,"Abilene, TX","Abilene, Washington Heights Addition, Greenville, Hunt County, Texas, 75401, United States",33.14,-96.13
+2244,Haltom City,TX,"Haltom City, TX","Haltom City, Tarrant County, Texas, United States",32.8,-97.27
+2277,Bellerose,NY,"Bellerose, NY","Village of Bellerose, Town of Hempstead, Nassau County, New York, United States",40.72,-73.72
+2287,Dorchester,MA,"Dorchester, MA","Dorchester County, Maryland, United States",38.39,-76.1
+2295,Westminster,CO,"Westminster, CO","Westminster, Adams County, Colorado, United States",39.84,-105.04
+2296,Canal Winchester,OH,"Canal Winchester, OH","Canal Winchester, Madison Township, Franklin County, Ohio, 43110, United States",39.84,-82.82
+2336,Crowley,TX,"Crowley, TX","North Crowley High School, 9100, South Hulen Street, Fort Worth, Tarrant County, 76123, United States",32.61,-97.4
+2343,Boyds,MD,"Boyds, MD","Boyds, Montgomery County, Maryland, 20841, United States",39.18,-77.31
+2344,Hickory,NC,"Hickory, NC","Hickory, Catawba County, North Carolina, United States",35.73,-81.34
+2356,Miami Gardens,FL,"Miami Gardens, FL","Miami Gardens, Miami-Dade County, Florida, United States",25.94,-80.25
+2363,Marshall,MI,"Marshall, MI","Marshall County, Minnesota, United States",48.36,-96.38
+2366,Harlingen,TX,"Harlingen, TX","Harlingen, Cameron County, Texas, 78550, United States",26.19,-97.7
+2400,Queens Village,NY,"Queens Village, NY","Queens Village, Queens County, City of New York, New York, 11428, United States",40.73,-73.74
+2405,Hamtramck,MI,"Hamtramck, MI","Hamtramck, Wayne County, Michigan, 48212, United States",42.39,-83.05
+2442,Grand Rapids,MI,"Grand Rapids, MI","Grand Rapids, Kent County, Michigan, United States",42.96,-85.67
+2447,Grosse Pointe,MI,"Grosse Pointe, MI","Grosse Pointe, Wayne County, Michigan, United States",42.39,-82.91
+2449,Statesville,NC,"Statesville, NC","Statesville, Iredell County, North Carolina, United States",35.78,-80.89
+2456,Jackson Heights,NY,"Jackson Heights, NY","Jackson Heights, Queens County, City of New York, New York, 11372, United States",40.76,-73.89
+2464,Abingdon,VA,"Abingdon, VA","Abingdon, Vale of White Horse, Oxfordshire, England, OX14 3UJ, United Kingdom",51.67,-1.28
+2468,Greensboro,NC,"Greensboro, NC","Greensboro, Guilford County, North Carolina, United States",36.07,-79.79
+2473,Opa Locka,FL,"Opa Locka, FL","Opa-locka, Miami-Dade County, Florida, 33054, United States",25.9,-80.25
+2475,Corryton,TN,"Corryton, TN","Corryton, Knox County, East Tennessee, Tennessee, 37779, United States",36.15,-83.78
+2524,North Las Vegas,NV,"North Las Vegas, NV","North Las Vegas, Clark County, Nevada, United States",36.2,-115.12
+2538,Burlington,NC,"Burlington, NC","Burlington, Alamance County, North Carolina, United States",36.1,-79.44
+2566,East Elmhurst,NY,"East Elmhurst, NY","East Elmhurst, Queens County, City of New York, New York, 11369, United States",40.76,-73.87
+2590,Summerfield,FL,"Summerfield, FL","Summerfield, Marion County, Florida, 34492, United States",29.01,-82.03
+2597,Pembroke,ME,"Pembroke, ME","Pembroke, Washington County, Maine, 04666, United States",44.95,-67.16
+2621,Elgin,IL,"Elgin, IL","Elgin, Elgin Township, Kane County, Illinois, United States",42.04,-88.28
+2632,Lakewood,NY,"Lakewood, NY","Village of Lakewood, Town of Busti, Chautauqua County, New York, 14750, United States",42.1,-79.33
+2648,Cordova,TN,"Cordova, TN","Cordova, Memphis, Shelby County, West Tennessee, Tennessee, 38018, United States",35.16,-89.78
+2658,La Canada Flintridge,CA,"La Canada Flintridge, CA","La Cañada Flintridge, Los Angeles County, California, 91011, United States",34.2,-118.2
+2664,North Royalton,OH,"North Royalton, OH","North Royalton, Cuyahoga County, Ohio, 44133, United States",41.31,-81.72
+2702,Harbor City,CA,"Harbor City, CA","Harbor City, Harbor Pines, Los Angeles, Los Angeles County, California, 90710, United States",33.79,-118.3
+2705,Lookout Mountain,GA,"Lookout Mountain, GA","Lookout Mountain, Walker County, Georgia, 30750, United States",34.98,-85.36
+2718,Fountain Valley,CA,"Fountain Valley, CA","Fountain Valley, Orange County, California, 92708, United States",33.7,-117.96
+2720,Redmond,WA,"Redmond, WA","Redmond, King County, Washington, United States",47.67,-122.12
+2740,Glen Oaks,NY,"Glen Oaks, NY","Glen Oaks, Queens County, City of New York, New York, 11004, United States",40.75,-73.71
+2746,Mocksville,NC,"Mocksville, NC","Mocksville, Davie County, North Carolina, United States",35.89,-80.56
+2752,Warner Robins,GA,"Warner Robins, GA","Warner Robins, Houston County, Georgia, United States",32.62,-83.61
+2763,Columbiana,OH,"Columbiana, OH","Columbiana County, Ohio, United States",40.78,-80.76
+2769,Hyattsville,MD,"Hyattsville, MD","Hyattsville, Prince George's County, Maryland, 20782, United States",38.95,-76.94
+2780,Solon,OH,"Solon, OH","Solon, Cuyahoga County, Ohio, 44139, United States",41.39,-81.44
+2793,Littleton,CO,"Littleton, CO","Littleton, Arapahoe County, Colorado, United States",39.61,-105.02
+2797,Coronado,CA,"Coronado, CA","Coronado, San Diego County, California, United States",32.69,-117.18
+2800,Ridgewood,NY,"Ridgewood, NY","Ridgewood, Queens County, City of New York, New York, 11385, United States",40.71,-73.91
+2805,Reseda,CA,"Reseda, CA","Reseda, Reseda Neighborhood Council District, Los Angeles, Los Angeles County, California, 91335, United States",34.2,-118.54
+2829,Del Mar,CA,"Del Mar, CA","Del Mar, San Diego County, California, United States",32.96,-117.27
+2831,Silver Spring,MD,"Silver Spring, MD","Silver Spring, Montgomery County, Maryland, United States",39.0,-77.02
+2858,Magnolia,TX,"Magnolia, TX","Magnolia, Montgomery County, United States",30.21,-95.75
+2868,Atlantic Beach,FL,"Atlantic Beach, FL","Atlantic Beach, Duval County, Florida, 32233, United States",30.33,-81.4
+2887,Belleview,FL,"Belleview, FL","Belleview, Marion County, Florida, 34420, United States",29.06,-82.06
+2892,Old Hickory,TN,"Old Hickory, TN","Old Hickory, Nashville-Davidson, Davidson County, Middle Tennessee, Tennessee, 37138, United States",36.26,-86.65
+2900,Crosby,TX,"Crosby, TX","Crosby, Longview, Harrison County, 75602, United States",32.47,-94.7
+2907,Beverly Hills,CA,"Beverly Hills, CA","Beverly Hills, Los Angeles County, California, United States",34.07,-118.4
+2922,District Heights,MD,"District Heights, MD","District Heights, Prince George's County, Maryland, 20747, United States",38.86,-76.88
+2945,Mountlake Terrace,WA,"Mountlake Terrace, WA","Mountlake Terrace, Snohomish County, Washington, 98043, United States",47.79,-122.31
+2984,Arlington,TX,"Arlington, TX","Arlington, Tarrant County, Texas, United States",32.74,-97.11
+2993,Bedias,TX,"Bedias, TX","Bedias, Grimes County, Texas, United States",30.78,-95.95
+3023,Millersport,OH,"Millersport, OH","Millersport, Fairfield County, Ohio, 43046, United States",39.9,-82.53
+3030,Clearwater Beach,FL,"Clearwater Beach, FL","Clearwater Beach, Clearwater, Pinellas County, Florida, 33767, United States",27.98,-82.83
+3045,Federal Way,WA,"Federal Way, WA","Federal Way, King County, Washington, United States",47.31,-122.34
+3054,Monticello,FL,"Monticello, FL","Monticello, Jefferson County, Florida, 32345, United States",30.55,-83.87
+3059,Alhambra,CA,"Alhambra, CA","Alhambra, Los Angeles County, California, United States",34.09,-118.13
+3082,Grand Ledge,MI,"Grand Ledge, MI","Grand Ledge, Eaton County, Michigan, United States",42.75,-84.75
+3084,Indio,CA,"Indio, CA","Indio, Riverside County, California, United States",33.72,-116.22
+3102,York,PA,"York, PA","York, East Market Street, Northwest Triangle, York, York County, Pennsylvania, 17402, United States",39.96,-76.73
+3114,Euclid,OH,"Euclid, OH","Euclid, Cuyahoga County, Ohio, United States",41.59,-81.53
+3153,Howard Beach,NY,"Howard Beach, NY","Howard Beach, Queens County, City of New York, New York, 11414, United States",40.66,-73.84
+3167,Montebello,CA,"Montebello, CA","Montebello, Los Angeles County, California, 90640, United States",34.02,-118.11
+3168,Wheat Ridge,CO,"Wheat Ridge, CO","Wheat Ridge, Jefferson County, Colorado, 80033, United States",39.77,-105.08
+3183,Woodstock,IL,"Woodstock, IL","Woodstock, McHenry County, Illinois, 60098, United States",42.31,-88.45
+3190,Rockford,TN,"Rockford, TN","Rockford, Blount County, East Tennessee, Tennessee, United States",35.83,-83.94
+3193,Santa Rosa,CA,"Santa Rosa, CA","Santa Rosa, Sonoma County, California, United States",38.44,-122.71
+3194,Warren,MI,"Warren, MI","Warren County, Missouri, United States",38.75,-91.15
+3196,Pickerington,OH,"Pickerington, OH","Pickerington, Fairfield County, Ohio, 43147, United States",39.88,-82.75
+3212,Pittsburgh,PA,"Pittsburgh, PA","Pittsburgh, Allegheny County, Pennsylvania, United States",40.44,-79.99
+3215,Vienna,VA,"Vienna, VA","Vienna, Fairfax County, Virginia, 22180, United States",38.9,-77.27
+3226,Northridge,CA,"Northridge, CA","Northridge, Northridge South Neighborhood Council District, Los Angeles, Los Angeles County, California, 91324, United States",34.23,-118.54
+3233,Winter Park,FL,"Winter Park, FL","Winter Park, Orange County, Florida, United States",28.6,-81.35
+3235,Santa Maria,CA,"Santa Maria, CA","Santa Maria, Santa Barbara County, California, United States",34.95,-120.44
+3296,Santa Monica,CA,"Santa Monica, CA","Santa Monica, Los Angeles County, California, United States",34.02,-118.49
+3305,Davis,CA,"Davis, CA","Davis, Yolo County, California, United States",38.55,-121.74
+3315,Odessa,TX,"Odessa, TX","Odessa, Ector County, Texas, United States",31.85,-102.37
+3334,Pasadena,TX,"Pasadena, TX","Pasadena, Harris County, Texas, United States",29.69,-95.21
+3344,Lake Odessa,MI,"Lake Odessa, MI","Lake Odessa, Odessa Township, Ionia County, Michigan, 48849, United States",42.78,-85.14
+3358,Allen,TX,"Allen, TX","Allen, Collin County, Texas, United States",33.1,-96.67
+3363,Humble,TX,"Humble, TX","Humble, Harris County, United States",30.0,-95.26
+3378,Thousand Oaks,CA,"Thousand Oaks, CA","Thousand Oaks, Ventura County, California, United States",34.17,-118.84
+3392,Fort Collins,CO,"Fort Collins, CO","Fort Collins, Larimer County, Colorado, United States",40.55,-105.07
+3405,Provo,UT,"Provo, UT","Provo, Utah County, Utah, United States",40.23,-111.66
+3441,Lorain,OH,"Lorain, OH","Lorain, Lorain County, Ohio, United States",41.47,-82.18
+3466,Rosedale,NY,"Rosedale, NY","Rosedale, Queens County, City of New York, New York, 11422, United States",40.66,-73.74
+3471,Mayville,NY,"Mayville, NY","Village of Mayville, Town of Chautauqua, Chautauqua County, New York, United States",42.25,-79.5
+3478,Kansas City,MO,"Kansas City, MO","Kansas City, Jackson County, Missouri, United States",39.1,-94.58
+3488,Kennewick,WA,"Kennewick, WA","Kennewick, Benton County, Washington, United States",46.21,-119.12
+3494,Pueblo,CO,"Pueblo, CO","Pueblo, Pueblo County, Colorado, United States",38.25,-104.61
+3507,Bainbridge Island,WA,"Bainbridge Island, WA","Bainbridge Island, Kitsap County, Washington, 98110, United States",47.65,-122.55
+3515,Columbus,OH,"Columbus, OH","Columbus, Franklin County, Ohio, United States",39.96,-83.0
+3520,Falconer,NY,"Falconer, NY","Village of Falconer, Town of Ellicott, Chautauqua County, New York, United States",42.12,-79.2
+3531,Grand Junction,CO,"Grand Junction, CO","Grand Junction, Mesa County, Colorado, United States",39.06,-108.55
+3538,Shelburne,VT,"Shelburne, VT","Shelburne, Chittenden County, Vermont, 05482, United States",44.38,-73.23
+3581,Fairfield,PA,"Fairfield, PA","Fairfield, Jefferson County, Alabama, United States",33.49,-86.91
+3618,Naperville,IL,"Naperville, IL","Naperville, DuPage County, Illinois, United States",41.77,-88.15
+3631,Indian Orchard,MA,"Indian Orchard, MA","Indian Orchard, Springfield, Hampden County, Massachusetts, 01151, United States",42.16,-72.5
+3643,Middleville,NY,"Middleville, NY","Village of Middleville, Town of Fairfield, Herkimer County, New York, United States",43.14,-74.97
+3654,Jacksonville,NC,"Jacksonville, NC","Jacksonville, Onslow County, North Carolina, United States",34.75,-77.42
+3698,Stockton,CA,"Stockton, CA","Stockton, San Joaquin County, California, United States",37.96,-121.29
+3700,Glendale,UT,"Glendale, UT","Glendale, Salt Lake City, Salt Lake County, Utah, 84104, United States",40.74,-111.93
+3709,Nashville,NC,"Nashville, NC","Nashville, Nash County, North Carolina, United States",35.97,-77.97
+3769,Ann Arbor,MI,"Ann Arbor, MI","Ann Arbor, Washtenaw County, Michigan, United States",42.27,-83.73
+3853,Sherman Oaks,CA,"Sherman Oaks, CA","Sherman Oaks, Los Angeles, Los Angeles County, California, 91403, United States",34.15,-118.45
+3869,Modesto,CA,"Modesto, CA","Modesto, Stanislaus County, California, United States",37.64,-121.0
+3902,Middle Village,NY,"Middle Village, NY","Middle Village, Queens County, City of New York, New York, 11379, United States",40.72,-73.88
+3990,Dallas,NC,"Dallas, NC","Dallas, Gaston County, North Carolina, United States",35.32,-81.18
+4009,Antelope,CA,"Antelope, CA","Antelope, Sacramento County, California, 95842, United States",38.71,-121.33
+4076,San Bernardino,CA,"San Bernardino, CA","San Bernardino County, California, United States",34.83,-116.08
+4081,Celina,TX,"Celina, TX","Celina, Collin County, Texas, 75009, United States",33.32,-96.79
+4097,Saginaw,MI,"Saginaw, MI","City of Saginaw, Saginaw County, Michigan, United States",43.42,-83.95
+4132,Katy,TX,"Katy, TX","Katy, Fort Bend County, Texas, United States",29.79,-95.82
+4195,Hillsboro,OR,"Hillsboro, OR","Hillsboro, Washington County, Oregon, United States",45.52,-122.99
+4203,Goodlettsville,TN,"Goodlettsville, TN","Goodlettsville, Sumner County, Middle Tennessee, Tennessee, 37072, United States",36.33,-86.71
+4218,Fremont,CA,"Fremont, CA","Fremont, Alameda County, California, United States",37.55,-121.99
+4222,Camby,IN,"Camby, IN","Camby, Indianapolis, Marion County, Indiana, 46113, United States",39.66,-86.31
+4253,Littcarr,KY,"Littcarr, KY","Littcarr, Knott County, Kentucky, 41847, United States",37.24,-82.95
+4284,Laveen,AZ,"Laveen, AZ","Laveen, Phoenix, Maricopa County, Arizona, 85399, United States",33.36,-112.15
+4294,Redford,MI,"Redford, MI","Redford, Redford Charter Township, Wayne County, Michigan, 48239, United States",42.38,-83.3
+4303,El Monte,CA,"El Monte, CA","El Monte, Los Angeles County, California, 91731, United States",34.08,-118.04
+4311,North Port,FL,"North Port, FL","North Port, Sarasota County, Florida, United States",27.04,-82.24
+4347,Beulah,CO,"Beulah, CO","Beulah, Mercer County, North Dakota, United States",47.26,-101.78
+4477,Alexandria,VA,"Alexandria, VA","Alexandria, Virginia, United States",38.81,-77.05
+4495,Peoria,IL,"Peoria, IL","Peoria, Peoria County, Illinois, United States",40.69,-89.59
+4506,Clovis,CA,"Clovis, CA","Clovis, Fresno County, California, United States",36.83,-119.7
+4530,Oakland,ME,"Oakland, ME","Oakland, Kennebec County, Maine, 04963, United States",44.54,-69.72
+4552,Mission Hills,CA,"Mission Hills, CA","Mission Hills, Santa Barbara County, California, United States",34.69,-120.44
+4556,Issaquah,WA,"Issaquah, WA","Issaquah, King County, Washington, United States",47.53,-122.04
+4572,Poughkeepsie,NY,"Poughkeepsie, NY","City of Poughkeepsie, Dutchess County, New York, 12601, United States",41.71,-73.93
+4597,American Canyon,CA,"American Canyon, CA","American Canyon, Napa County, California, United States",38.22,-122.23
+4615,Rock Spring,GA,"Rock Spring, GA","Rock Spring, Walker County, Georgia, 30739, United States",34.82,-85.24
+4636,Sheldon,VT,"Sheldon, VT","Sheldon, Franklin County, Vermont, United States",44.88,-72.94
+4640,Gowanda,NY,"Gowanda, NY","Village of Gowanda / Jogowöde', Town of Persia, Cattaraugus County, New York, 14070, United States",42.46,-78.94
+4653,Charlotte,MI,"Charlotte, MI","Charlotte, Mecklenburg County, North Carolina, United States",35.23,-80.84
+4654,Granada Hills,CA,"Granada Hills, CA","Granada Hills, Granada Hills South Neighborhood Council District, Los Angeles, Los Angeles County, California, 91325, United States",34.27,-118.52
+4655,Emeryville,CA,"Emeryville, CA","Emeryville, Alameda County, California, 94608, United States",37.83,-122.29
+4657,South Pittsburg,TN,"South Pittsburg, TN","South Pittsburg, Marion County, East Tennessee, Tennessee, 37380, United States",35.01,-85.71
+4679,Costa Mesa,CA,"Costa Mesa, CA","Costa Mesa, Orange County, California, United States",33.66,-117.9
+4685,Beltsville,MD,"Beltsville, MD","Beltsville, Prince George's County, Maryland, 20705, United States",39.04,-76.93
+4692,Lanham,MD,"Lanham, MD","Lanham, Glenn Dale, Prince George's County, Maryland, 20706, United States",38.97,-76.84
+4714,Springfield Gardens,NY,"Springfield Gardens, NY","Springfield Gardens, Queens County, City of New York, New York, 11413, United States",40.68,-73.75
+4730,South Bend,IN,"South Bend, IN","South Bend, Saint Joseph County, Indiana, United States",41.68,-86.25
+4735,Pleasantville,OH,"Pleasantville, OH","Pleasantville, Fairfield County, Ohio, United States",39.81,-82.52
+4761,Ionia,MI,"Ionia, MI","Ionia County, Michigan, United States",42.95,-85.07
+4795,Midland,GA,"Midland, GA","Midland, Columbus, Muscogee County, Georgia, 31820, United States",32.57,-84.83
+4804,Pacific Palisades,CA,"Pacific Palisades, CA","Pacific Palisades, Los Angeles, Los Angeles County, California, 90402, United States",34.05,-118.53
+4838,Battle Creek,MI,"Battle Creek, MI","Battle Creek, Calhoun County, Michigan, 49015, United States",42.32,-85.18
+4851,Rockaway Park,NY,"Rockaway Park, NY","Rockaway Park, Queens County, City of New York, New York, United States",40.58,-73.84
+4882,Reynoldsburg,OH,"Reynoldsburg, OH","Reynoldsburg, Truro Township, Franklin County, Ohio, 43068, United States",39.95,-82.81
+4907,Rochester,NY,"Rochester, NY","City of Rochester, Monroe County, New York, United States",43.16,-77.62
+4911,Studio City,CA,"Studio City, CA","Studio City, Los Angeles, Los Angeles County, California, 91604, United States",34.15,-118.4
+4935,Whites Creek,TN,"Whites Creek, TN","Whites Creek, Nashville-Davidson, Davidson County, Middle Tennessee, Tennessee, United States",36.21,-86.83
+4959,Texas City,TX,"Texas City, TX","Texas City, Galveston County, United States",29.4,-94.92
+4978,Tyrone,NY,"Tyrone, NY","Town of Tyrone, Schuyler County, New York, 14887, United States",42.41,-77.06
+4991,Joliet,IL,"Joliet, IL","Joliet, Will County, Illinois, United States",41.53,-88.08
+4992,El Mirage,AZ,"El Mirage, AZ","El Mirage, Maricopa County, Arizona, 85335, United States",33.61,-112.32
+5019,Carroll,OH,"Carroll, OH","Carroll County, Ohio, United States",40.53,-81.09
+5107,Garner,IA,"Garner, IA","Garner, Hancock County, Iowa, United States",43.1,-93.6
+5151,Avondale,AZ,"Avondale, AZ","Avondale, Maricopa County, Arizona, United States",33.44,-112.35
+5230,Arverne,NY,"Arverne, NY","Arverne, Queens County, City of New York, New York, 11692, United States",40.59,-73.79
+5289,Ozone Park,NY,"Ozone Park, NY","Ozone Park, Queens County, City of New York, New York, 11417, United States",40.68,-73.84
+5294,Pinellas Park,FL,"Pinellas Park, FL","Pinellas Park, Pinellas County, Florida, United States",27.84,-82.7
+5296,Akron,OH,"Akron, OH","Akron, Summit County, Ohio, United States",41.08,-81.52
+5322,Port Orchard,WA,"Port Orchard, WA","Port Orchard, Kitsap County, Washington, United States",47.53,-122.64
+5345,Adams,TN,"Adams, TN","Adams County, Washington, United States",46.97,-118.59
+5376,Frisco,TX,"Frisco, TX","Frisco, Collin County, Texas, United States",33.15,-96.82
+5392,Thornton,CO,"Thornton, CO","Thornton, Adams County, Colorado, United States",39.87,-104.99
+5397,Potomac,MD,"Potomac, MD","Potomac, Montgomery County, Maryland, 20854, United States",39.02,-77.2
+5434,Saint Albans,VT,"Saint Albans, VT","Saint Albans, 40, Federal Street, St. Albans, Franklin County, Vermont, 05478, United States",44.81,-73.09
+5449,Augusta,GA,"Augusta, GA","Augusta, Richmond County, Georgia, United States",33.47,-81.97
+5503,Morrison,CO,"Morrison, CO","Morrison, Grundy County, Iowa, 50657, United States",42.34,-92.67
+5628,Simi Valley,CA,"Simi Valley, CA","Simi Valley, Ventura County, California, United States",34.27,-118.75
+5667,Dorchester Center,MA,"Dorchester Center, MA","Dorchester Center, Dorchester, Boston, Suffolk County, Massachusetts, 02124, United States",42.29,-71.07
+5720,Fairfax,VT,"Fairfax, VT","Fairfax, Franklin County, Vermont, 05454, United States",44.67,-73.01
+5729,South Burlington,VT,"South Burlington, VT","South Burlington, Chittenden County, Vermont, United States",44.47,-73.17
+5730,Aledo,TX,"Aledo, TX","Aledo, Parker County, Texas, United States",32.7,-97.6
+5751,Dewittville,NY,"Dewittville, NY","Dewittville, Town of Chautauqua, Chautauqua County, New York, 14728, United States",42.24,-79.45
+5773,Santa Cruz,CA,"Santa Cruz, CA","Santa Cruz County, California, United States",37.05,-121.99
+5814,Erie,PA,"Erie, PA","Erie, Erie County, Pennsylvania, United States",42.13,-80.09
+5858,Ridgefield,WA,"Ridgefield, WA","Ridgefield, Clark County, Washington, United States",45.82,-122.74
+5881,Collins,NY,"Collins, NY","Town of Collins, Erie County, New York, United States",42.5,-78.92
+5930,Rancho Santa Fe,CA,"Rancho Santa Fe, CA","Rancho Santa Fe, San Diego County, California, 92067, United States",33.02,-117.2
+5937,Salinas,CA,"Salinas, CA","Salinas, Monterey County, California, United States",36.67,-121.66
+5958,Harrisburg,PA,"Harrisburg, PA","Harrisburg, Dauphin County, Pennsylvania, United States",40.27,-76.89
+5967,Woodinville,WA,"Woodinville, WA","Woodinville, King County, Washington, United States",47.75,-122.16
+5982,Vansant,VA,"Vansant, VA","Vansant, Buchanan County, Virginia, 24656, United States",37.23,-82.11
+6001,Westminster,CA,"Westminster, CA","Westminster, Orange County, California, United States",33.76,-117.99
+6004,Salem,OR,"Salem, OR","Salem, Marion County, Oregon, United States",44.94,-123.03
+6089,Bonney Lake,WA,"Bonney Lake, WA","Bonney Lake, Pierce County, Washington, United States",47.19,-122.17
+6109,Fairfield,ME,"Fairfield, ME","Fairfield, Somerset County, Maine, United States",44.59,-69.6
+6126,Campbell,OH,"Campbell, OH","Campbell, Mahoning County, Ohio, 44405, United States",41.08,-80.59
+6191,Hayward,CA,"Hayward, CA","Hayward, Alameda County, California, United States",37.67,-122.08
+6211,Dayton,OH,"Dayton, OH","Dayton, Montgomery County, Ohio, United States",39.76,-84.19
+6213,Stowe,VT,"Stowe, VT","Stowe, Lamoille County, Vermont, United States",44.46,-72.69
+6231,Fredonia,NY,"Fredonia, NY","Village of Fredonia, Town of Pomfret, Chautauqua County, New York, 14063, United States",42.44,-79.33
+6238,New Hyde Park,NY,"New Hyde Park, NY","Village of New Hyde Park, Town of North Hempstead, Nassau County, New York, United States",40.74,-73.69
+6256,Baltimore,OH,"Baltimore, OH","Baltimore, Fairfield County, Ohio, United States",39.85,-82.6
+6268,Nashville,MI,"Nashville, MI","Nashville-Davidson, Davidson County, Middle Tennessee, Tennessee, United States",36.16,-86.77
+6272,Vergennes,VT,"Vergennes, VT","Vergennes, Addison County, Vermont, United States",44.17,-73.25
+6276,Nolensville,TN,"Nolensville, TN","Nolensville, Williamson County, Middle Tennessee, Tennessee, 37135, United States",35.95,-86.67
+6290,Dunlap,IL,"Dunlap, IL","Dunlap, Peoria County, Illinois, United States",40.86,-89.68
+6308,Saint Augustine,FL,"Saint Augustine, FL","Saint Augustine, Saint Johns County, Florida, 32084, United States",29.89,-81.31
+6334,Martinez,CA,"Martinez, CA","Martinez, Contra Costa County, California, 94553, United States",38.01,-122.13
+6356,Pflugerville,TX,"Pflugerville, TX","Pflugerville, Travis County, Texas, United States",30.44,-97.62
+6538,Missouri City,TX,"Missouri City, TX","TX 6, Missouri City, Fort Bend County, 77459, United States",29.53,-95.51
+6564,Clear Lake,IA,"Clear Lake, IA","Clear Lake, Cerro Gordo County, Iowa, 50428, United States",43.14,-93.38
+6570,Hephzibah,GA,"Hephzibah, GA","Hephzibah, Richmond County, Georgia, United States",33.31,-82.1
+6578,Tolleson,AZ,"Tolleson, AZ","Tolleson, Maricopa County, Arizona, United States",33.45,-112.26
+6612,Orange Park,FL,"Orange Park, FL","Orange Park, Clay County, Florida, United States",30.17,-81.7
+6631,Oak Ridge,NC,"Oak Ridge, NC","Oak Ridge, Guilford County, North Carolina, 27310, United States",36.17,-79.99
+6644,Gig Harbor,WA,"Gig Harbor, WA","Gig Harbor, Pierce County, Washington, 98335, United States",47.33,-122.59
+6706,Woodside,NY,"Woodside, NY","Woodside, Queens County, City of New York, New York, 11377, United States",40.75,-73.91
+6721,Culver City,CA,"Culver City, CA","Culver City, Los Angeles County, California, United States",34.02,-118.4
+6723,Mission Viejo,CA,"Mission Viejo, CA","Mission Viejo, Orange County, California, United States",33.6,-117.66
+6726,Apex,NC,"Apex, NC","Apex, Wake County, North Carolina, 27502, United States",35.73,-78.85
+6787,North Hero,VT,"North Hero, VT","North Hero, Grand Isle County, Vermont, 05474, United States",44.82,-73.29
+6806,Alburgh,VT,"Alburgh, VT","Alburgh, Grand Isle County, Vermont, 05440, United States",44.98,-73.3
+6828,Franklin,VT,"Franklin, VT","Franklin, Franklin County, Vermont, United States",44.98,-72.92
+6843,Gilroy,CA,"Gilroy, CA","Gilroy, Santa Clara County, California, 95020, United States",37.01,-121.56
+6976,Orange,CA,"Orange, CA","Orange County, California, United States",33.75,-117.87
+6996,Kingston Springs,TN,"Kingston Springs, TN","Kingston Springs, Cheatham County, Middle Tennessee, Tennessee, 37082, United States",36.1,-87.12
+7014,Stedman,NC,"Stedman, NC","Stedman, Cumberland County, North Carolina, United States",35.01,-78.69
+7020,Thomasville,GA,"Thomasville, GA","Thomasville, Thomas County, Georgia, 31792, United States",30.84,-83.98
+7027,Palo Alto,CA,"Palo Alto, CA","Palo Alto, Santa Clara County, California, United States",37.44,-122.16
+7065,Heath,OH,"Heath, OH","Heath, Licking County, Ohio, United States",40.02,-82.44
+7068,Jericho,VT,"Jericho, VT","Jericho, Chittenden County, Vermont, 05465, United States",44.51,-73.0
+7085,Kenmore,WA,"Kenmore, WA","Kenmore, King County, Washington, 98028, United States",47.76,-122.25
+7104,Champaign,IL,"Champaign, IL","Champaign, Champaign County, Illinois, United States",40.12,-88.24
+7152,Salem,OH,"Salem, OH","Salem, Columbiana County, Ohio, United States",40.9,-80.86
+7201,Archer,FL,"Archer, FL","Archer, Alachua County, Florida, 32618, United States",29.53,-82.52
+7205,Dell City,TX,"Dell City, TX","Dell City, Hudspeth County, Texas, United States",31.94,-105.2
+7217,Visalia,CA,"Visalia, CA","Visalia, Tulare County, California, United States",36.33,-119.29
+7229,Jamestown,NY,"Jamestown, NY","Jamestown, Chautauqua County, New York, United States",42.1,-79.24
+7313,Richmond,CA,"Richmond, CA","Richmond, Contra Costa County, California, United States",37.94,-122.35
+7371,Von Ormy,TX,"Von Ormy, TX","Pilot - Von Ormy, Von Ormy, Bexar County, 78073, United States",29.28,-98.67
+7384,Mount Juliet,TN,"Mount Juliet, TN","Mount Juliet, Wilson County, Middle Tennessee, Tennessee, United States",36.2,-86.52
+7385,Annandale,VA,"Annandale, VA","Annandale, Fairfax County, Virginia, United States",38.84,-77.21
+7402,Turlock,CA,"Turlock, CA","Turlock, Stanislaus County, California, United States",37.49,-120.85
+7411,La Crescenta,CA,"La Crescenta, CA","La Crescenta, Los Angeles County, California, 91214, United States",34.23,-118.24
+7464,Chico,CA,"Chico, CA","Chico, Butte County, California, United States",39.73,-121.84
+7559,Mc Lean,VA,"Mc Lean, VA","Mc Lean Station Bus Bay F, Dolley Madison Boulevard, Tysons, Fairfax County, Virginia, 22043, United States",38.93,-77.21
+7599,Flushing,MI,"Flushing, MI","Flushing, Genesee County, Michigan, 48433, United States",43.06,-83.85
+7623,Elkhart,IN,"Elkhart, IN","Elkhart County, Indiana, United States",41.6,-85.86
+7633,Citra,FL,"Citra, FL","Citra, Marion County, Florida, 32113, United States",29.41,-82.11
+7641,Falls Church,VA,"Falls Church, VA","Falls Church, Virginia, 22046, United States",38.88,-77.17
+7677,Canoga Park,CA,"Canoga Park, CA","Canoga Park, Los Angeles, Los Angeles County, California, 91303, United States",34.2,-118.6
+7687,Winterville,NC,"Winterville, NC","Winterville, Pitt County, North Carolina, 28590, United States",35.53,-77.4
+7711,Brookpark,OH,"Brookpark, OH","Brookpark, 18010, Brookpark Road, Riverside, Cleveland, Cuyahoga County, Ohio, 44126, United States",41.42,-81.82
+7743,Graham,WA,"Graham, WA","Graham, Pierce County, Washington, 09339, United States",47.04,-122.28
+7816,Maple Heights,OH,"Maple Heights, OH","Maple Heights, Cuyahoga County, Ohio, 44137, United States",41.42,-81.57
+7953,Nashville,IN,"Nashville, IN","Nashville, Brown County, Indiana, United States",39.21,-86.25
+7957,Verdi,NV,"Verdi, NV","Verdi-Mogul, Washoe County, Nevada, 89515, United States",39.52,-119.99
+8003,Sun City,AZ,"Sun City, AZ","Sun City, Peoria, Maricopa County, Arizona, 85351, United States",33.62,-112.28
+8083,Hahira,GA,"Hahira, GA","Hahira, Lowndes County, Georgia, United States",30.99,-83.37
+8137,San Pedro,CA,"San Pedro, CA","San Pedro, Los Angeles, Los Angeles County, California, 90731, United States",33.74,-118.29
+8196,Georgetown,TX,"Georgetown, TX","Georgetown, Williamson County, Texas, United States",30.63,-97.68
+8218,Ecorse,MI,"Ecorse, MI","Ecorse, Wayne County, Michigan, 48229, United States",42.24,-83.15
+8239,Spanaway,WA,"Spanaway, WA","Spanaway, Pierce County, Washington, United States",47.1,-122.42
+8247,Sugar Grove,OH,"Sugar Grove, OH","Sugar Grove, Fairfield County, Ohio, United States",39.63,-82.55
+8250,Cedar Hill,TX,"Cedar Hill, TX","Cedar Hill, Dallas County, Texas, 75104, United States",32.59,-96.96
+8308,Dupont,WA,"Dupont, WA","DuPont, Pierce County, Washington, 98327, United States",47.1,-122.64
+8448,Herkimer,NY,"Herkimer, NY","Herkimer County, New York, United States",43.49,-74.95
+8465,Bryans Road,MD,"Bryans Road, MD","Bryans Road, Charles County, Maryland, 20616, United States",38.63,-77.08
+8497,Gresham,OR,"Gresham, OR","Gresham, Multnomah County, Oregon, United States",45.5,-122.43
+8500,Goodell,IA,"Goodell, IA","Goodell, Hancock County, Iowa, United States",42.92,-93.61
+8517,Roxbury,MA,"Roxbury, MA","Roxbury, Oxford County, Maine, 04275, United States",44.67,-70.59
+8617,Playa Vista,CA,"Playa Vista, CA","Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",33.98,-118.42
+8695,Lowell,MA,"Lowell, MA","Lowell, Middlesex County, Massachusetts, United States",42.64,-71.31
+8728,Santee,CA,"Santee, CA","Santee, San Diego County, California, 92071, United States",32.84,-116.97
+8804,Far Rockaway,NY,"Far Rockaway, NY","Far Rockaway, Queens County, City of New York, New York, 11691, United States",40.61,-73.76
+8818,Merced,CA,"Merced, CA","Merced County, California, United States",37.16,-120.77
+8925,Cherry Creek,NY,"Cherry Creek, NY","Town of Cherry Creek, Chautauqua County, New York, 14723, United States",42.29,-79.1
+8929,El Centro,CA,"El Centro, CA","El Centro, Imperial County, California, 92243, United States",32.79,-115.56
+8976,Rossville,GA,"Rossville, GA","Rossville, Walker County, Georgia, United States",34.98,-85.29
+9005,Corona,CA,"Corona, CA","Corona, Riverside County, California, United States",33.88,-117.57
+9006,New Bedford,MA,"New Bedford, MA","New Bedford, Bristol County, Massachusetts, United States",41.64,-70.93
+9040,Round Lake,IL,"Round Lake, IL","Round Lake, Lake County, Illinois, United States",42.35,-88.09
+9056,Germantown,MD,"Germantown, MD","Germantown, Montgomery County, Maryland, United States",39.17,-77.27
+9083,Elmhurst,NY,"Elmhurst, NY","Elmhurst, Queens County, City of New York, New York, 11373, United States",40.74,-73.88
+9135,East Fultonham,OH,"East Fultonham, OH","East Fultonham, Muskingum County, Ohio, 43735, United States",39.85,-82.12
+9147,Snohomish,WA,"Snohomish, WA","Snohomish County, Washington, United States",48.01,-121.73
+9214,Hope Mills,NC,"Hope Mills, NC","Hope Mills, Cumberland County, North Carolina, United States",34.97,-78.95
+9329,Hutto,TX,"Hutto, TX","Hutto, Williamson County, Texas, 78634, United States",30.54,-97.55
+9406,Cooleemee,NC,"Cooleemee, NC","Cooleemee, Davie County, North Carolina, 27014, United States",35.81,-80.56
+9459,Richlands,VA,"Richlands, VA","Richlands, Tazewell County, Virginia, United States",37.09,-81.8
+9656,North Highlands,CA,"North Highlands, CA","North Highlands, Sacramento County, California, 95843, United States",38.69,-121.37
+9688,Neptune Beach,FL,"Neptune Beach, FL","Neptune Beach, Duval County, Florida, 32266, United States",30.31,-81.4
+9814,San Ysidro,CA,"San Ysidro, CA","San Ysidro, San Diego, San Diego County, California, 92173, United States",32.55,-117.04
+9874,Wilmington,CA,"Wilmington, CA","Wilmington, Los Angeles, Los Angeles County, California, 90710, United States",33.78,-118.26
+9884,Highland Park,MI,"Highland Park, MI","Highland Park, Wayne County, Michigan, 48203, United States",42.41,-83.1
+9971,Cleveland,MS,"Cleveland, MS","Cleveland, Bolivar County, Mississippi, 38732, United States",33.74,-90.72
+10029,Vashon,WA,"Vashon, WA","Vashon, King County, Washington, 98070, United States",47.42,-122.47
+10117,Utica,NY,"Utica, NY","City of Utica, Oneida County, New York, United States",43.1,-75.23
+10299,Burlington,VT,"Burlington, VT","Burlington, Chittenden County, Vermont, United States",44.48,-73.21
+10326,Lewisville,TX,"Lewisville, TX","Lewisville, Denton County, Texas, United States",33.05,-96.99
+10338,Takoma Park,MD,"Takoma Park, MD","Takoma Park, Montgomery County, Maryland, 20912, United States",38.98,-77.01
+10372,Garrett,KY,"Garrett, KY","Garrett, Floyd County, Kentucky, 41630, United States",37.48,-82.83
+10390,Jasper,TN,"Jasper, TN","Jasper, Marion County, East Tennessee, Tennessee, 37347, United States",35.07,-85.63
+10407,Dickson,TN,"Dickson, TN","Dickson County, Middle Tennessee, Tennessee, United States",36.15,-87.35
+10416,West Jordan,UT,"West Jordan, UT","West Jordan, Salt Lake County, Utah, United States",40.61,-111.94
+10455,Portland,MI,"Portland, MI","Portland, Multnomah County, Oregon, United States",45.52,-122.67
+10587,Greeley,CO,"Greeley, CO","Greeley, Weld County, Colorado, United States",40.42,-104.71
+10588,Mira Loma,CA,"Mira Loma, CA","Mira Loma, Jurupa Valley, Riverside County, California, United States",33.98,-117.52
+10753,Westfield,NY,"Westfield, NY","Village of Westfield, Town of Westfield, Chautauqua County, New York, 14787, United States",42.32,-79.58
+10761,South Holland,IL,"South Holland, IL","South Holland, Thornton Township, Cook County, Illinois, 60473, United States",41.6,-87.61
+10766,Mount Perry,OH,"Mount Perry, OH","Mount Perry, Perry County, Ohio, 43760, United States",39.88,-82.22
+10890,Charlestown,MA,"Charlestown, MA","Charlestown, Boston, Suffolk County, Massachusetts, 02129, United States",42.38,-71.06
+10893,Daly City,CA,"Daly City, CA","Daly City, San Mateo County, California, 94015, United States",37.69,-122.47
+10938,Midway Park,NC,"Midway Park, NC","Midway Park, Jacksonville, Onslow County, North Carolina, 28544, United States",34.73,-77.34
+10950,Pomona,CA,"Pomona, CA","Pomona, Los Angeles County, California, United States",34.06,-117.75
+10975,Columbia,MO,"Columbia, MO","Columbia, Boone County, Missouri, United States",38.95,-92.33
+11045,Brighton,MA,"Brighton, MA","Brighton, East Sussex, England, BN1 1HH, United Kingdom",50.82,-0.14
+11141,Harper Woods,MI,"Harper Woods, MI","Harper Woods, Wayne County, Michigan, 48225, United States",42.43,-82.92
+11255,Apopka,FL,"Apopka, FL","Apopka, Orange County, Florida, United States",28.68,-81.51
+11316,New Haven,VT,"New Haven, VT","New Haven, Addison County, Vermont, 05472, United States",44.12,-73.15
+11324,Oxnard,CA,"Oxnard, CA","Oxnard, Ventura County, California, United States",34.2,-119.18
+11346,Hemet,CA,"Hemet, CA","Hemet, Riverside County, California, United States",33.75,-116.97
+11356,Hinesburg,VT,"Hinesburg, VT","Hinesburg, Chittenden County, Vermont, 05461, United States",44.33,-73.11
+11427,Bedford,OH,"Bedford, OH","Bedford, Cuyahoga County, Ohio, 44146, United States",41.39,-81.54
+11533,Temple Hills,MD,"Temple Hills, MD","Temple Hills, Prince George's County, Maryland, 20748, United States",38.81,-76.95
+11549,Naples,FL,"Naples, FL","Naples, Collier County, Florida, United States",26.14,-81.79
+11650,Berkeley,CA,"Berkeley, CA","Berkeley, Alameda County, California, United States",37.87,-122.27
+11695,Saltville,VA,"Saltville, VA","Saltville, Smyth County, Virginia, United States",36.88,-81.76
+11722,Castlewood,VA,"Castlewood, VA","Castlewood, Temple Hill, Russell County, Virginia, United States",36.88,-82.28
+11735,Kingston,WA,"Kingston, WA","Kingston, Kitsap County, Washington, 98346, United States",47.8,-122.5
+11796,Carlsbad,CA,"Carlsbad, CA","Carlsbad, San Diego County, California, United States",33.16,-117.35
+11801,Arvada,CO,"Arvada, CO","Arvada, Jefferson County, Colorado, United States",39.8,-105.08
+11835,Webster,TX,"Webster, TX","West Webster Street Park, Fourth Ward, Houston, Harris County, 77019, United States",29.75,-95.38
+11896,Encino,CA,"Encino, CA","Encino, Los Angeles, Los Angeles County, California, 91436, United States",34.16,-118.5
+11941,Jeffersonville,VT,"Jeffersonville, VT","Jeffersonville, Cambridge, Lamoille County, Vermont, 05464, United States",44.64,-72.83
+12153,Concord,CA,"Concord, CA","Concord, Contra Costa County, California, United States",37.98,-122.03
+12159,Yuba City,CA,"Yuba City, CA","Yuba City, Sutter County, California, United States",39.14,-121.62
+12169,Viper,KY,"Viper, KY","Viper, Perry County, Kentucky, 41774, United States",37.18,-83.15
+12380,Elmwood Park,IL,"Elmwood Park, IL","Elmwood Park, Leyden Township, Cook County, Illinois, United States",41.92,-87.82
+12439,Hallandale,FL,"Hallandale, FL","Hallandale Beach, Broward County, Florida, 33009, United States",25.98,-80.15
+12566,Stow,NY,"Stow, NY","Stow, Town of North Harmony, Chautauqua County, New York, 14785, United States",42.16,-79.4
+12718,Lancaster,PA,"Lancaster, PA","Lancaster, Lancaster County, Pennsylvania, United States",40.04,-76.31
+12722,Barney,GA,"Barney, GA","Barney, Brooks County, Georgia, United States",31.01,-83.51
+12727,Bunnell,FL,"Bunnell, FL","Bunnell, Flagler County, Florida, 32110, United States",29.47,-81.26
+12751,Greenbelt,MD,"Greenbelt, MD","Greenbelt, Spring Manor Drive, Greenbelt, Prince George's County, Maryland, 20770, United States",38.99,-76.88
+12756,Bladensburg,MD,"Bladensburg, MD","Bladensburg, Prince George's County, Maryland, 20710, United States",38.94,-76.93
+12761,Medford,OR,"Medford, OR","Medford, Jackson County, Oregon, United States",42.33,-122.87
+12826,Waldorf,MD,"Waldorf, MD","Waldorf, Charles County, Maryland, 20601, United States",38.64,-76.91
+12908,Cleveland,OK,"Cleveland, OK","Cleveland County, Oklahoma, United States",35.23,-97.31
+12971,Hindman,KY,"Hindman, KY","Hindman, Knott County, Kentucky, United States",37.34,-82.98
+12983,Fort Wayne,IN,"Fort Wayne, IN","Fort Wayne, Allen County, Indiana, United States",41.08,-85.14
+12993,Newbury Park,CA,"Newbury Park, CA","Newbury Park, Thousand Oaks, Ventura County, California, 91320, United States",34.18,-118.91
+13003,Winters,CA,"Winters, CA","Winters, Yolo County, California, United States",38.52,-121.97
+13011,Upper Marlboro,MD,"Upper Marlboro, MD","Upper Marlboro, Prince George's County, Maryland, United States",38.81,-76.76
+13060,River Rouge,MI,"River Rouge, MI","River Rouge, Wayne County, Michigan, 48218, United States",42.27,-83.14
+13078,Marstons Mills,MA,"Marstons Mills, MA","Marstons Mills, Barnstable, Barnstable County, Massachusetts, 02648, United States",41.66,-70.42
+13154,Belvidere,IL,"Belvidere, IL","Belvidere, Belvidere Township, Boone County, Illinois, 61008, United States",42.26,-88.84
+13175,Ashville,NY,"Ashville, NY","Ashville, Town of North Harmony, Chautauqua County, New York, 14710, United States",42.1,-79.38
+13308,Los Gatos,CA,"Los Gatos, CA","Los Gatos, Santa Clara County, California, 95030, United States",37.23,-121.97
+13341,Rancho Cucamonga,CA,"Rancho Cucamonga, CA","Rancho Cucamonga, San Bernardino County, California, United States",34.1,-117.58
+13416,Porter Ranch,CA,"Porter Ranch, CA","Porter Ranch, Los Angeles, Los Angeles County, California, 91326, United States",34.28,-118.56
+13654,Rye,TX,"Rye, TX","TX 146, Big Thicket Creekmore Village, Rye, Liberty County, 77326, United States",30.47,-94.77
+13738,Morgan Hill,CA,"Morgan Hill, CA","Morgan Hill, Santa Clara County, California, 95038, United States",37.13,-121.65
+13825,Knightdale,NC,"Knightdale, NC","Knightdale, Wake County, North Carolina, 27545, United States",35.79,-78.48
+13994,Christiana,TN,"Christiana, TN","Christiana, Rutherford County, Middle Tennessee, Tennessee, 37037, United States",35.71,-86.4
+14066,Playa Del Rey,CA,"Playa Del Rey, CA","Playa del Rey, Los Angeles, Los Angeles County, California, 90293, United States",33.95,-118.44
+14179,Timnath,CO,"Timnath, CO","Timnath, Larimer County, Colorado, 80547, United States",40.53,-104.98
+14498,Palmer,TX,"Palmer, TX","Palmer, Ellis County, Texas, United States",32.43,-96.67
+14513,Trenton,GA,"Trenton, GA","Trenton, Dade County, Georgia, United States",34.87,-85.51
+14521,Biscoe,NC,"Biscoe, NC","Biscoe, Montgomery County, North Carolina, United States",35.36,-79.78
+14622,Panorama City,CA,"Panorama City, CA","Panorama City, Panorama City Neighborhood Council District, Los Angeles, Los Angeles County, California, 91402, United States",34.22,-118.45
+14653,Valdosta,GA,"Valdosta, GA","Valdosta, Lowndes County, Georgia, United States",30.83,-83.28
+14698,Greenbrier,TN,"Greenbrier, TN","Greenbrier, Robertson County, Middle Tennessee, Tennessee, 37073, United States",36.43,-86.8
+14843,Valley Village,CA,"Valley Village, CA","Valley Village, Los Angeles, Los Angeles County, California, 91607, United States",34.16,-118.4
+14896,Wildwood,GA,"Wildwood, GA","Wildwood, Chicago, Jefferson Township, Cook County, Illinois, United States",42.0,-87.78
+15157,San Mateo,CA,"San Mateo, CA","San Mateo County, California, United States",37.5,-122.33
+15307,Anderson Island,WA,"Anderson Island, WA","Anderson Island, Pierce County, Washington, 98303, United States",47.16,-122.71
+15353,Bowie,MD,"Bowie, MD","Bowie, Prince George's County, Maryland, United States",38.94,-76.73
+15466,Delton,MI,"Delton, MI","Delton, Barry Township, Barry County, Michigan, 49046, United States",42.5,-85.41
+15507,Scarsdale,NY,"Scarsdale, NY","Village of Scarsdale, Westchester County, New York, 10583, United States",40.99,-73.8
+15551,Colchester,VT,"Colchester, VT","Colchester, Chittenden County, Vermont, 05446, United States",44.54,-73.21
+15570,Roxbury Crossing,MA,"Roxbury Crossing, MA","Roxbury Crossing, Tremont Street, Mission Hill, Boston, Suffolk County, Massachusetts, 02120, United States",42.33,-71.1
+15726,Fairfield,VT,"Fairfield, VT","Fairfield, Franklin County, Vermont, 05455, United States",44.8,-72.95
+15755,Oxon Hill,MD,"Oxon Hill, MD","Oxon Hill, Prince George's County, Maryland, 20745, United States",38.78,-76.97
+15892,Forest City,IA,"Forest City, IA","Forest City, Winnebago County, Iowa, 50436, United States",43.26,-93.64
+15945,Santa Clara,CA,"Santa Clara, CA","Santa Clara County, California, United States",37.23,-121.68
+16081,Benicia,CA,"Benicia, CA","Benicia, Solano County, California, 94510, United States",38.05,-122.16
+16120,South Pasadena,CA,"South Pasadena, CA","South Pasadena, Los Angeles County, California, 91030, United States",34.11,-118.15
+16191,Lyons,MI,"Lyons, MI","Lyons, Lyons Township, Cook County, Illinois, United States",41.81,-87.82
+16313,Forestville,NY,"Forestville, NY","Forestville, Town of Hanover, Chautauqua County, New York, United States",42.47,-79.18
+16402,Elk Grove,CA,"Elk Grove, CA","Elk Grove, Sacramento County, California, 95624, United States",38.41,-121.37
+16538,Brush Prairie,WA,"Brush Prairie, WA","Brush Prairie, Battle Ground, Clark County, Washington, United States",45.73,-122.54
+16571,East Berkshire,VT,"East Berkshire, VT","East Berkshire, Berkshire, Franklin County, Vermont, 05447, United States",44.93,-72.71
+16608,Flintstone,GA,"Flintstone, GA","Flintstone, Walker County, Georgia, 30725, United States",34.94,-85.34
+16629,Springfield,MO,"Springfield, MO","Springfield, Greene County, Missouri, United States",37.2,-93.29
+16676,West Hills,CA,"West Hills, CA","West Hills, Los Angeles, Los Angeles County, California, 91307, United States",34.2,-118.65
+16795,Bemus Point,NY,"Bemus Point, NY","Village of Bemus Point, Town of Ellery, Chautauqua County, New York, United States",42.16,-79.39
+16801,Hillsborough,NC,"Hillsborough, NC","Hillsborough, Orange County, North Carolina, 27278, United States",36.08,-79.1
+16853,Chautauqua,NY,"Chautauqua, NY","Chautauqua County, New York, United States",42.29,-79.42
+16897,Aurora,IL,"Aurora, IL","Aurora, Aurora Township, Kane County, Illinois, United States",41.76,-88.31
+16958,Clemmons,NC,"Clemmons, NC","Clemmons, Forsyth County, North Carolina, United States",36.02,-80.38
+16977,Cambridge,MA,"Cambridge, MA","Cambridge, Middlesex County, Massachusetts, United States",42.38,-71.11
+17076,Bremen,OH,"Bremen, OH","Bremen, Fairfield County, Ohio, United States",39.7,-82.43
+17081,Dixon,CA,"Dixon, CA","Dixon, Solano County, California, 95620, United States",38.45,-121.82
+17181,Cedar Bluff,VA,"Cedar Bluff, VA","Cedar Bluff, Tazewell County, Virginia, United States",37.09,-81.76
+17235,Stanford,CA,"Stanford, CA","Stanford, Palo Alto, Santa Clara County, California, United States",37.43,-122.17
+17452,Ferrisburgh,VT,"Ferrisburgh, VT","Ferrisburgh, Addison County, Vermont, United States",44.21,-73.25
+17535,Sparks,NV,"Sparks, NV","Sparks, Washoe County, Nevada, United States",39.54,-119.75
+17555,Hurst,TX,"Hurst, TX","Hurst, Tarrant County, Texas, United States",32.82,-97.17
+17622,Williston,VT,"Williston, VT","Williston, Chittenden County, Vermont, 05495, United States",44.44,-73.07
+17644,Addison,TX,"Addison, TX","Addison, Dallas County, Texas, 75001, United States",32.96,-96.83
+17743,Temecula,CA,"Temecula, CA","Temecula, Riverside County, California, United States",33.49,-117.15
+17854,Camas,WA,"Camas, WA","Camas, Clark County, Washington, 98607, United States",45.59,-122.4
+18062,Santa Clarita,CA,"Santa Clarita, CA","Santa Clarita, Los Angeles County, California, United States",34.39,-118.54
+18150,Parrish,FL,"Parrish, FL","Parrish, Manatee County, Florida, 34219, United States",27.59,-82.43
+18165,Newark,OH,"Newark, OH","Newark, Licking County, Ohio, 43055, United States",40.06,-82.4
+18257,Sunnyside,NY,"Sunnyside, NY","Sunnyside, Queens County, City of New York, New York, 11101, United States",40.74,-73.94
+18261,Mattapan,MA,"Mattapan, MA","Mattapan, Boston, Suffolk County, Massachusetts, 02126, United States",42.27,-71.09
+18285,Coldspring,TX,"Coldspring, TX","Coldspring, San Jacinto County, Texas, United States",30.59,-95.13
+18373,Lafayette,IN,"Lafayette, IN","Lafayette, Tippecanoe County, Indiana, United States",40.42,-86.88
+18400,Roslindale,MA,"Roslindale, MA","Roslindale, Boston, Suffolk County, Massachusetts, 02131, United States",42.29,-71.12
+18684,Cattaraugus,NY,"Cattaraugus, NY","Cattaraugus County, New York, United States",42.22,-78.65
+18686,Castroville,TX,"Castroville, TX","Castroville, Medina County, Texas, United States",29.36,-98.88
+18862,Medina,WA,"Medina, WA","Medina, King County, Washington, 98039, United States",47.62,-122.23
+18915,Lacey,WA,"Lacey, WA","Lacey, Thurston County, Washington, United States",47.03,-122.81
+19094,Middleburg,FL,"Middleburg, FL","Middleburg, Clay County, Florida, United States",30.06,-81.9
+19122,Hebron,OH,"Hebron, OH","Hebron, Union Township, Licking County, Ohio, 43025, United States",39.96,-82.49
+19273,Fairfax,VA,"Fairfax, VA","Fairfax, Fairfax (city), Virginia, 20030, United States",38.85,-77.31
+19274,Stokesdale,NC,"Stokesdale, NC","Stokesdale, Guilford County, North Carolina, United States",36.24,-79.98
+19417,Sherman,NY,"Sherman, NY","Village of Sherman, Town of Sherman, Chautauqua County, New York, 14781, United States",42.16,-79.6
+19433,Perry,ME,"Perry, ME","Perry, Washington County, Maine, United States",44.97,-67.08
+19603,Santa Barbara,CA,"Santa Barbara, CA","Santa Barbara, Santa Barbara County, California, United States",34.42,-119.7
+19667,The Colony,TX,"The Colony, TX","The Colony, Denton County, Texas, 75056, United States",33.09,-96.89
+19722,Pfafftown,NC,"Pfafftown, NC","Pfafftown, Forsyth County, North Carolina, 27040, United States",36.15,-80.36
+19761,Bristol,VA,"Bristol, VA","Bristol, Virginia, 37625, United States",36.6,-82.19
+20418,Orting,WA,"Orting, WA","Orting, Pierce County, Washington, 98360, United States",47.1,-122.2
+20813,Bronxville,NY,"Bronxville, NY","Village of Bronxville, Town of Eastchester, Westchester County, New York, 10708, United States",40.94,-73.83
+20852,Riverview,FL,"Riverview, FL","Riverview, Hillsborough County, Florida, 33568, United States",27.87,-82.33
+20904,Rowan,IA,"Rowan, IA","Rowan, Wright County, Iowa, United States",42.74,-93.55
+21129,Cleburne,TX,"Cleburne, TX","Cleburne, Johnson County, Texas, United States",32.35,-97.39
+21310,Milton,VT,"Milton, VT","Milton, Chittenden County, Vermont, 05468, United States",44.63,-73.12
+21738,Waterville,VT,"Waterville, VT","Waterville, Lamoille County, Vermont, 05492, United States",44.69,-72.77
+21865,Oakwood,GA,"Oakwood, GA","Oakwood, Hall County, Georgia, United States",34.23,-83.88
+21879,Minnie,KY,"Minnie, KY","Minnie, Floyd County, Kentucky, 41651, United States",37.47,-82.75
+21914,Kemah,TX,"Kemah, TX","Kemah, Galveston County, Texas, United States",29.54,-95.02
+21939,Menifee,CA,"Menifee, CA","Menifee, Riverside County, California, 92584, United States",33.69,-117.18
+22012,Glenford,OH,"Glenford, OH","Glenford, Perry County, Ohio, United States",39.89,-82.32
+22295,Ventura,IA,"Ventura, IA","Ventura, Cerro Gordo County, Iowa, 50482, United States",43.13,-93.48
+22348,Dickinson,TX,"Dickinson, TX","Dickinson, Galveston County, 77539, United States",29.46,-95.05
+22442,Haines City,FL,"Haines City, FL","Haines City, Polk County, Florida, 33844, United States",28.11,-81.63
+22611,Fife,WA,"Fife, WA","Fife, Pierce County, Washington, 98424, United States",47.24,-122.36
+22687,Belton,TX,"Belton, TX","Belton, Bell County, Texas, United States",31.06,-97.46
+22757,Euless,TX,"Euless, TX","Euless, Tarrant County, Texas, United States",32.85,-97.07
+22768,Canutillo,TX,"Canutillo, TX","Doniphan Drive, Serene Acres Colonia, Canutillo, El Paso County, 79821, United States",31.91,-106.6
+22774,Richmond Hill,NY,"Richmond Hill, NY","Richmond Hill, Queens County, City of New York, New York, 11418, United States",40.7,-73.83
+22792,Stafford,TX,"Stafford, TX","Stafford Run Road, Stafford, Fort Bend County, Texas, 77477, United States",29.61,-95.56
+22976,Washingtonville,OH,"Washingtonville, OH","Washingtonville, Columbiana County, Ohio, 44490, United States",40.9,-80.76
+23077,Porter,TX,"Porter, TX","Gladys Porter Zoo, Polk Street, Brownsville, Cameron County, 78520, United States",25.91,-97.5
+23121,Saint George,UT,"Saint George, UT","East Saint George Boulevard, St. George, Washington County, Utah, 84771, United States",37.11,-113.57
+23128,Lowell,MI,"Lowell, MI","Lowell, Middlesex County, Massachusetts, United States",42.64,-71.31
+23224,Sunfield,MI,"Sunfield, MI","Sunfield, Sunfield Township, Eaton County, Michigan, United States",42.76,-84.99
+23231,Valencia,CA,"Valencia, CA","Valencia, Parroquia Santa Rosa, Municipio Valencia, Carabobo, 2001, Venezuela",10.17,-68.0
+23254,Holland,MI,"Holland, MI","Holland, Ottawa County, Michigan, 49423, United States",42.79,-86.11
+23290,Stockton,NY,"Stockton, NY","Town of Stockton, Chautauqua County, New York, United States",42.32,-79.36
+23372,Flint,MI,"Flint, MI","Flint, Genesee County, Michigan, United States",43.02,-83.69
+23455,Greenhurst,NY,"Greenhurst, NY","Greenhurst, Town of Ellery, Chautauqua County, New York, 14742, United States",42.12,-79.31
+23496,Floral Park,NY,"Floral Park, NY","Village of Floral Park, Town of Hempstead, Nassau County, New York, 11001, United States",40.72,-73.7
+23498,Clintwood,VA,"Clintwood, VA","Clintwood, Dickenson County, Virginia, United States",37.15,-82.46
+23524,Reading,PA,"Reading, PA","Reading, Berks County, Pennsylvania, United States",40.34,-75.93
+24045,Fort Washington,MD,"Fort Washington, MD","Fort Washington, Prince George's County, Maryland, United States",38.74,-77.0
+24170,Port Isabel,TX,"Port Isabel, TX","Port Isabel, Cameron County, Texas, 78578, United States",26.07,-97.21
+24205,Bristol,VT,"Bristol, VT","Bristol, Addison County, Vermont, United States",44.13,-73.08
+24299,Stoutsville,OH,"Stoutsville, OH","Stoutsville, Fairfield County, Ohio, United States",39.6,-82.83
+24418,Rockville,MD,"Rockville, MD","Rockville, Montgomery County, Maryland, United States",39.08,-77.15
+24642,Newberry,FL,"Newberry, FL","Newberry, Alachua County, Florida, United States",29.65,-82.61
+25006,Kernersville,NC,"Kernersville, NC","Kernersville, Forsyth County, North Carolina, 27284, United States",36.12,-80.07
+25068,Ponte Vedra,FL,"Ponte Vedra, FL","Ponte Vedra Beach, Saint Johns County, Florida, United States",30.23,-81.38
+25169,Wellsville,OH,"Wellsville, OH","Wellsville, Columbiana County, Ohio, United States",40.6,-80.65
+25275,Lebanon,VA,"Lebanon, VA","Lebanon, Russell County, Virginia, 24266, United States",36.9,-82.08
+25285,Glendale,OR,"Glendale, OR","Glendale, Douglas County, Oregon, 97442, United States",42.74,-123.42
+25307,Gardena,CA,"Gardena, CA","Gardena, Los Angeles County, California, United States",33.9,-118.31
+25317,Kensington,MD,"Kensington, MD","Kensington, Montgomery County, Maryland, 20895, United States",39.03,-77.08
+25501,Eagle,MI,"Eagle, MI","Eagle County, Colorado, United States",39.62,-106.72
+25508,Richford,VT,"Richford, VT","Richford, Franklin County, Vermont, 05476, United States",45.0,-72.67
+25548,Splendora,TX,"Splendora, TX","Splendora, Montgomery County, Texas, 77372, United States",30.23,-95.16
+25646,North Hills,CA,"North Hills, CA","North Hills, Northridge East Neighborhood Council District, Los Angeles, Los Angeles County, California, 91343, United States",34.24,-118.49
+25737,Mountain View,CA,"Mountain View, CA","Mountain View, Santa Clara County, California, United States",37.39,-122.08
+25775,Winooski,VT,"Winooski, VT","Winooski, Chittenden County, Vermont, 05404, United States",44.49,-73.19
+25992,Steilacoom,WA,"Steilacoom, WA","Steilacoom, Pierce County, Washington, 98388, United States",47.17,-122.6
+25999,Dearborn Heights,MI,"Dearborn Heights, MI","Dearborn Heights, Wayne County, Michigan, United States",42.34,-83.27
+26024,Intercession City,FL,"Intercession City, FL","Intercession City, Osceola County, Florida, 33848, United States",28.26,-81.51
+26113,Maspeth,NY,"Maspeth, NY","Maspeth, Queens County, City of New York, New York, 11378, United States",40.72,-73.91
+26259,Falcon Heights,TX,"Falcon Heights, TX","Falcon Heights Drive, Coles Crossing, Harris County, Texas, 77429, United States",29.98,-95.67
+26432,Clinchco,VA,"Clinchco, VA","Clinchco, Dickenson County, Virginia, United States",37.16,-82.36
+26480,Quitman,GA,"Quitman, GA","Quitman County, Georgia, United States",31.88,-85.02
+26618,Essex,NY,"Essex, NY","Essex County, New York, United States",44.06,-73.75
+26769,Altadena,CA,"Altadena, CA","Altadena, Los Angeles County, California, United States",34.19,-118.14
+27077,Burke,VA,"Burke, VA","Burke, Fairfax County, Virginia, 22015, United States",38.78,-77.27
+27087,Latimer,IA,"Latimer, IA","Latimer, Franklin County, Iowa, United States",42.76,-93.37
+27348,Brentwood,MD,"Brentwood, MD","Brentwood, Prince George's County, Maryland, 20722, United States",38.94,-76.96
+27427,New Palestine,IN,"New Palestine, IN","New Palestine, Hancock County, Indiana, United States",39.72,-85.89
+27514,Alden,IA,"Alden, IA","Alden, Hardin County, Iowa, United States",42.52,-93.38
+27537,Fort Mill,SC,"Fort Mill, SC","Fort Mill, York County, South Carolina, United States",35.01,-80.95
+27666,Mount Hamilton,CA,"Mount Hamilton, CA","Mount Hamilton, Santa Clara County, California, 95140, United States",37.34,-121.64
+27727,Red Oak,TX,"Red Oak, TX","Red Oak, Cleburne, Johnson County, Texas, 76033, United States",32.33,-97.42
+27850,Saint Paul,VA,"Saint Paul, VA","Saint-Paul, Beaupréau-en-Mauges, Cholet, Beaupréau, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49600, France",47.24,-1.01
+27866,Indian Trail,NC,"Indian Trail, NC","Indian Trail, Union County, North Carolina, United States",35.08,-80.67
+28075,Riverdale,MD,"Riverdale, MD","Riverdale Park, Prince George's County, Maryland, United States",38.96,-76.93
+28309,Glendale,KY,"Glendale, KY","Glendale, Hardin County, Kentucky, 42740, United States",37.6,-85.91
+28362,Mebane,NC,"Mebane, NC","Mebane, Alamance County, North Carolina, United States",36.1,-79.27
+28593,Stanton,TX,"Stanton, TX","TX 137, Stanton, Martin County, Texas, 79782, United States",32.31,-101.86
+28695,Manor,TX,"Manor, TX","Manor, Travis County, Texas, 78653, United States",30.34,-97.56
+28863,Westport,NY,"Westport, NY","Town of Westport, Essex County, New York, 12993, United States",44.18,-73.44
+28980,Bahama,NC,"Bahama, NC","Bahama, Durham County, North Carolina, United States",36.17,-78.88
+29198,Buckley,WA,"Buckley, WA","Buckley, Pierce County, Washington, United States",47.16,-122.03
+29227,Kalamazoo,MI,"Kalamazoo, MI","Kalamazoo, Kalamazoo County, Michigan, United States",42.29,-85.59
+29245,Amanda,OH,"Amanda, OH","Amanda, Fairfield County, Ohio, United States",39.65,-82.74
+29279,Mount Rainier,MD,"Mount Rainier, MD","Mount Rainier, Prince George's County, Maryland, 20712, United States",38.94,-76.96
+29527,Fort Myers,FL,"Fort Myers, FL","Fort Myers, Lee County, Florida, United States",26.64,-81.87
+29725,Conewango Valley,NY,"Conewango Valley, NY","Conewango Valley, Town of Ellington, Chautauqua County, New York, 14726, United States",42.24,-79.06
+30226,Corning,OH,"Corning, OH","Corning, Perry County, Ohio, United States",39.6,-82.09
+30269,Ogden,UT,"Ogden, UT","Ogden, Weber County, Utah, United States",41.22,-111.97
+31031,Orleans,MI,"Orleans, MI","Orleans County, New York, United States",43.22,-78.23
+31172,Port Wentworth,GA,"Port Wentworth, GA","Port Wentworth, Chatham County, Georgia, 31407, United States",32.15,-81.16
+31525,Napa,CA,"Napa, CA","Napa, Napa County, California, United States",38.3,-122.29
+31629,Waterville,ME,"Waterville, ME","Waterville, Kennebec County, Maine, United States",44.55,-69.63
+31710,Allston,MA,"Allston, MA","Allston, Boston, Suffolk County, Massachusetts, United States",42.36,-71.13
+31738,Dunkirk,NY,"Dunkirk, NY","Dunkirk, City of Dunkirk, Chautauqua County, New York, 14048, United States",42.48,-79.33
+31826,Meadowview,VA,"Meadowview, VA","Meadowview, Roanoke, Virginia, 24012, United States",37.32,-79.92
+31923,Belmont,NC,"Belmont, NC","Belmont, Gaston County, North Carolina, 28012, United States",35.24,-81.04
+32048,Montgomery Center,VT,"Montgomery Center, VT","Montgomery Center, Montgomery, Franklin County, Vermont, 05471, United States",44.88,-72.61
+32119,Logan,UT,"Logan, UT","Logan, Cache County, Utah, United States",41.73,-111.83
+32226,Olney,MD,"Olney, MD","Olney, Montgomery County, Maryland, United States",39.15,-77.07
+32285,Centerville,MA,"Centerville, MA","Centerville, Appanoose County, Iowa, 52544, United States",40.73,-92.87
+32450,Montrose,CA,"Montrose, CA","Montrose, Greater Highlands, Edmonton, Division No. 11, Alberta, Canada",53.57,-113.44
+32470,Sunland,CA,"Sunland, CA","Sunland, Los Angeles, Los Angeles County, California, 91042, United States",34.27,-118.3
+32475,Forney,TX,"Forney, TX","Forney, Kaufman County, Texas, 75126, United States",32.75,-96.47
+32684,Belding,MI,"Belding, MI","Belding, Ionia County, Michigan, United States",43.1,-85.23
+32983,Logan,OH,"Logan, OH","Logan County, Ohio, United States",40.44,-83.74
+32993,Potterville,MI,"Potterville, MI","Potterville, Eaton County, Michigan, 48876, United States",42.63,-84.74
+33106,West Roxbury,MA,"West Roxbury, MA","West Roxbury, Boston, Suffolk County, Massachusetts, 02132, United States",42.28,-71.15
+33565,New Lexington,OH,"New Lexington, OH","New Lexington, Perry County, Ohio, United States",39.71,-82.21
+33708,Sun Valley,NV,"Sun Valley, NV","Sun Valley, Washoe County, Nevada, 89433, United States",39.61,-119.78
+33896,Richards,TX,"Richards, TX","Richards, Grimes County, Texas, United States",30.54,-95.84
+33977,New Richmond,OH,"New Richmond, OH","New Richmond, Ohio Township, Clermont County, Ohio, United States",38.95,-84.28
+34194,North Ferrisburgh,VT,"North Ferrisburgh, VT","North Ferrisburgh, Ferrisburgh, Addison County, Vermont, 05473, United States",44.26,-73.21
+34282,San Pablo,CA,"San Pablo, CA","San Pablo, Contra Costa County, California, 94806, United States",37.96,-122.35
+34540,Fort Oglethorpe,GA,"Fort Oglethorpe, GA","Fort Oglethorpe, Catoosa County, Georgia, 30742, United States",34.95,-85.24
+35295,Johnson,VT,"Johnson, VT","Johnson, Lamoille County, Vermont, 05656, United States",44.64,-72.68
+35462,Cedar Park,TX,"Cedar Park, TX","Cedar Park, Williamson County, Texas, United States",30.52,-97.83
+35507,Hyde Park,MA,"Hyde Park, MA","Hyde Park, Deanery Mews, Mayfair, London, Greater London, England, W1K 1BB, United Kingdom",51.51,-0.16
+35592,Lisbon,OH,"Lisbon, OH","Lisbon, Columbiana County, Ohio, United States",40.77,-80.77
+35671,Lutz,FL,"Lutz, FL","Lutz, Tampa, Hillsborough County, Florida, United States",28.13,-82.46
+35932,Boston,GA,"Boston, GA","Boston, Thomas County, Georgia, United States",30.79,-83.79
+36019,Galena Park,TX,"Galena Park, TX","Galena Park Library, Clinton Drive, Galena Park, Harris County, 77029, United States",29.73,-95.24
+36134,Mc Gregor,TX,"Mc Gregor, TX","Mc Gregor Drive, The Village, Austin, Travis County, Texas, 78715, United States",30.21,-97.81
+36538,Laurelville,OH,"Laurelville, OH","Laurelville, Hocking County, Ohio, United States",39.47,-82.74
+36895,Cassadaga,NY,"Cassadaga, NY","Village of Cassadaga, Town of Stockton, Chautauqua County, New York, United States",42.34,-79.31
+36936,Cedar Valley,UT,"Cedar Valley, UT","Cedar Point, Apple Valley, Washington County, Utah, United States",37.05,-113.08
+36953,Poulsbo,WA,"Poulsbo, WA","Poulsbo, Kitsap County, Washington, United States",47.74,-122.64
+37144,Seabeck,WA,"Seabeck, WA","Seabeck Creek, Kitsap County, Washington, United States",47.61,-122.85
+37200,South Dayton,NY,"South Dayton, NY","Village of South Dayton, Town of Dayton, Cattaraugus County, New York, United States",42.36,-79.06
+37266,Bakersfield,VT,"Bakersfield, VT","Bakersfield, Franklin County, Vermont, 05441, United States",44.78,-72.8
+37317,Nashport,OH,"Nashport, OH","Nashport, Muskingum County, Ohio, United States",40.07,-82.18
+37384,Cypress,CA,"Cypress, CA","Cypress, Orange County, California, 90630, United States",33.82,-118.04
+37694,Alto,MI,"Alto, MI","Alto, Mill Valley, Marin County, California, 94941, United States",37.9,-122.53
+38133,Muir,MI,"Muir, MI","Muir, Lyons Township, Ionia County, Michigan, United States",43.0,-84.94
+38236,Brocton,NY,"Brocton, NY","Village of Brocton, Town of Portland, Chautauqua County, New York, 14716, United States",42.39,-79.44
+38323,Galloway,OH,"Galloway, OH","Galloway, Prairie Township, Franklin County, Ohio, 43119, United States",39.91,-83.16
+38514,Nickelsville,VA,"Nickelsville, VA","Nickelsville, Scott County, Virginia, United States",36.75,-82.41
+38538,Hilliard,OH,"Hilliard, OH","Hilliard, Norwich Township, Franklin County, Ohio, United States",40.03,-83.16
+38764,Cuyahoga Falls,OH,"Cuyahoga Falls, OH","Cuyahoga Falls, Summit County, Ohio, United States",41.13,-81.48
+38865,Mc Leansville,NC,"Mc Leansville, NC","Mc Leansville Road, Guilford County, North Carolina, 27214, United States",36.21,-79.69
+38887,Jamestown,NC,"Jamestown, NC","Jamestown, Guilford County, North Carolina, United States",35.99,-79.94
+38938,San Lorenzo,CA,"San Lorenzo, CA","San Lorenzo, Alameda County, California, United States",37.67,-122.13
+39129,Stanley,NC,"Stanley, NC","Stanley, Gaston County, North Carolina, United States",35.36,-81.1
+39195,Mill Spring,NC,"Mill Spring, NC","Mill Spring, Polk County, North Carolina, 28756, United States",35.3,-82.16
+39477,Wake Forest,NC,"Wake Forest, NC","Wake Forest, Wake County, North Carolina, 27588, United States",35.98,-78.51
+39759,Mesquite,TX,"Mesquite, TX","Mesquite, Dallas County, Texas, United States",32.77,-96.6
+40075,Candler,NC,"Candler, NC","Candler, Buncombe County, North Carolina, 28715, United States",35.54,-82.69
+40106,Narrowsburg,NY,"Narrowsburg, NY","Narrowsburg, Town of Tusten, Sullivan County, New York, United States",41.61,-75.06
+40505,Manchaca,TX,"Manchaca, TX","Manchaca Village Apartments, Austin, Travis County, Texas, 78704, United States",30.24,-97.79
+40551,Burleson,TX,"Burleson, TX","Burleson County, Texas, United States",30.48,-96.64
+40582,Argyle,TX,"Argyle, TX","Argyle, Denton County, Texas, United States",33.11,-97.18
+40848,Kilgore,TX,"Kilgore, TX","Kilgore, Cameron County, Texas, United States",26.1,-97.68
+41097,Queen City,TX,"Queen City, TX","Queen City, Cass County, United States",33.15,-94.15
+41174,Inglewood,CA,"Inglewood, CA","Inglewood, Los Angeles County, California, United States",33.96,-118.35
+41414,Scranton,PA,"Scranton, PA","Scranton, Lackawanna County, Pennsylvania, United States",41.41,-75.66
+41421,Cleveland,VA,"Cleveland, VA","Cleveland, Russell County, Virginia, United States",36.94,-82.15
+42089,Crockett,CA,"Crockett, CA","Crockett, Contra Costa County, California, 94525, United States",38.04,-122.21
+42167,San Gabriel,CA,"San Gabriel, CA","San Gabriel, Los Angeles County, California, United States",34.1,-118.11
+42169,Morrisville,VT,"Morrisville, VT","Morrisville, Morristown, Lamoille County, Vermont, 05661, United States",44.56,-72.6
+42362,Little Valley,NY,"Little Valley, NY","Village of Little Valley, Town of Little Valley, Cattaraugus County, New York, 14755, United States",42.25,-78.81
+42438,Sinclairville,NY,"Sinclairville, NY","Village of Sinclairville, Town of Charlotte, Chautauqua County, New York, 14782, United States",42.26,-79.26
+42590,Glouster,OH,"Glouster, OH","Glouster, Athens County, Ohio, United States",39.5,-82.08
+42879,Raven,VA,"Raven, VA","Raven, Tazewell County, Virginia, United States",37.1,-81.86
+43144,Graham,NC,"Graham, NC","Graham, Alamance County, North Carolina, 27352, United States",36.07,-79.4
+43770,Little Elm,TX,"Little Elm, TX","Little Elm, Denton County, Texas, 75068, United States",33.16,-96.94
+43787,Apison,TN,"Apison, TN","Apison, Hamilton County, East Tennessee, Tennessee, 37302, United States",35.02,-85.02
+44977,Leander,TX,"Leander, TX","Leander, Williamson County, Texas, 78641, United States",30.57,-97.86
+45198,Leetonia,OH,"Leetonia, OH","Leetonia, Columbiana County, Ohio, United States",40.88,-80.76
+45246,Ocoee,FL,"Ocoee, FL","Ocoee, Orange County, Florida, 34761, United States",28.57,-81.54
+45429,Hyannis,MA,"Hyannis, MA","Hyannis, Barnstable, Barnstable County, Massachusetts, 02601, United States",41.65,-70.28
+45539,Coulter,IA,"Coulter, IA","Coulter, Franklin County, Iowa, 50431, United States",42.74,-93.37
+45680,Lookout Mountain,TN,"Lookout Mountain, TN","Lookout Mountain, Hamilton County, East Tennessee, Tennessee, 37350, United States",34.99,-85.35
+45695,Seabrook,TX,"Seabrook, TX","Seabrook, Harris County, 77586, United States",29.56,-95.02
+46016,Zanesville,OH,"Zanesville, OH","Zanesville, Muskingum County, Ohio, 43701, United States",39.94,-82.01
+46026,Maitland,FL,"Maitland, FL","Maitland, Orange County, Florida, 32751, United States",28.63,-81.37
+46143,Riverdale,IL,"Riverdale, IL","Riverdale, Thornton Township, Cook County, Illinois, 60827, United States",41.63,-87.63
+46569,College Park,MD,"College Park, MD","College Park, Prince George's County, Maryland, United States",38.98,-76.94
+46574,Redondo Beach,CA,"Redondo Beach, CA","Redondo Beach, Los Angeles County, California, 90278, United States",33.85,-118.39
+46779,Ypsilanti,MI,"Ypsilanti, MI","Ypsilanti, Washtenaw County, Michigan, 48197, United States",42.24,-83.61
+46869,Smyrna,TN,"Smyrna, TN","Smyrna, Rutherford County, Middle Tennessee, Tennessee, 37167, United States",35.98,-86.52
+46956,San Fernando,CA,"San Fernando, CA","San Fernando, Los Angeles County, California, 91340, United States",34.28,-118.44
+47118,East Fairfield,VT,"East Fairfield, VT","East Fairfield, Fairfield, Franklin County, Vermont, United States",44.78,-72.86
+47404,Brandywine,MD,"Brandywine, MD","Brandywine, Prince George's County, Maryland, 20613, United States",38.69,-76.88
+47614,Springport,MI,"Springport, MI","Springport, Springport Township, Jackson County, Michigan, 49284, United States",42.38,-84.7
+47618,Olivet,MI,"Olivet, MI","Olivet, Eaton County, Michigan, United States",42.44,-84.92
+47636,Crooksville,OH,"Crooksville, OH","Crooksville, Perry County, Ohio, United States",39.77,-82.09
+47684,Chapel Hill,NC,"Chapel Hill, NC","Chapel Hill, Orange County, North Carolina, United States",35.91,-79.06
+47862,Cypress,TX,"Cypress, TX","Cypress, Harris County, 77433, United States",29.97,-95.7
+48096,Emmalena,KY,"Emmalena, KY","Emmalena, Knott County, Kentucky, 41743, United States",37.34,-83.08
+48393,Springfield,VA,"Springfield, VA","Springfield, Fairfax County, Virginia, 22150, United States",38.78,-77.18
+49274,Bellevue,MI,"Bellevue, MI","Bellevue, King County, Washington, United States",47.61,-122.19
+50256,Beaverton,OR,"Beaverton, OR","Beaverton, Washington County, Oregon, United States",45.49,-122.8
+50745,Sunset Beach,CA,"Sunset Beach, CA","Sunset Beach (summer village), Alberta, Canada",54.74,-113.54
+50953,Dripping Springs,TX,"Dripping Springs, TX","Dripping Springs Drive, Mineral Springs, Keller, Tarrant County, Texas, 76248, United States",32.94,-97.23
+51004,Vermontville,MI,"Vermontville, MI","Vermontville, Vermontville Township, Eaton County, Michigan, United States",42.63,-85.02
+51087,Jonesborough,TN,"Jonesborough, TN","Jonesborough, Washington County, East Tennessee, Tennessee, 37659, United States",36.29,-82.47
+51186,Kingston,OH,"Kingston, OH","Kingston, Ross County, Ohio, United States",39.47,-82.91
+51305,Newport Coast,CA,"Newport Coast, CA","Newport Coast, Newport Beach, Orange County, California, United States",33.6,-117.83
+51688,Jackson,KY,"Jackson, KY","Jackson County, Kentucky, United States",37.42,-83.99
+51781,Somerset,TX,"Somerset, TX","Somerset, Bexar County, Texas, United States",29.23,-98.66
+52206,Buckeye Lake,OH,"Buckeye Lake, OH","Buckeye Lake, Union Township, Licking County, Ohio, 43008, United States",39.93,-82.48
+52897,Conover,NC,"Conover, NC","Conover, Catawba County, North Carolina, 28613, United States",35.71,-81.22
+52931,Columbia,MD,"Columbia, MD","Columbia, Howard County, Maryland, United States",39.19,-76.86
+53123,Sumner,WA,"Sumner, WA","Sumner, Bremer County, Iowa, United States",42.85,-92.1
+53396,Dacono,CO,"Dacono, CO","Dacono, Weld County, Colorado, 80514, United States",40.08,-104.94
+54105,Fertile,IA,"Fertile, IA","Fertile, Worth County, Iowa, 50434, United States",43.26,-93.42
+54189,Zionsville,IN,"Zionsville, IN","Zionsville, Boone County, Indiana, 46077, United States",39.95,-86.26
+54237,Needmore,TN,"Needmore, TN","Needmore, Hamblen County, East Tennessee, Tennessee, 37891, United States",36.3,-83.16
+54735,Waverly Hall,GA,"Waverly Hall, GA","Waverly Hall, Harris County, Georgia, 31831, United States",32.68,-84.74
+54782,Grundy,VA,"Grundy, VA","Grundy, Buchanan County, Virginia, 24614, United States",37.28,-82.1
+55140,Havana,FL,"Havana, FL","Havana, Gadsden County, Florida, United States",30.63,-84.42
+55257,Bonnyman,KY,"Bonnyman, KY","Bonnyman, Perry County, Kentucky, 41719, United States",37.29,-83.24
+55475,Frewsburg,NY,"Frewsburg, NY","Frewsburg, Town of Carroll, Chautauqua County, New York, 14738, United States",42.05,-79.16
+56992,Dwarf,KY,"Dwarf, KY","Dwarf, Perry County, Kentucky, 41739, United States",37.34,-83.13
+57342,Huntington,UT,"Huntington, UT","Huntington, Emery County, Utah, 84528, United States",39.33,-110.96
+58028,Troutman,NC,"Troutman, NC","Troutman, Iredell County, North Carolina, United States",35.7,-80.89
+59147,Mousie,KY,"Mousie, KY","Mousie, Knott County, Kentucky, 41839, United States",37.42,-82.88
+59152,Hopewell,OH,"Hopewell, OH","Hopewell, Muskingum County, Ohio, 43746, United States",39.96,-82.17
+59176,Roy,WA,"Roy, WA","Roy, Pierce County, Washington, United States",47.0,-122.54
+59951,Orrtanna,PA,"Orrtanna, PA","Orrtanna, Adams County, Pennsylvania, United States",39.85,-77.36
+59954,Duncanville,TX,"Duncanville, TX","Duncanville, Dallas County, Texas, United States",32.65,-96.91
+60233,Leominster,MA,"Leominster, MA","Leominster, Worcester County, Massachusetts, 01453, United States",42.53,-71.76
+60707,Garner,NC,"Garner, NC","Garner, Wake County, North Carolina, United States",35.71,-78.61
+60867,Yeaddiss,KY,"Yeaddiss, KY","Yeaddiss, Leslie County, Kentucky, 41777, United States",37.07,-83.22
+60949,Clint,TX,"Clint, TX","Clint, El Paso County, Texas, 79836, United States",31.59,-106.23
+61179,Kannapolis,NC,"Kannapolis, NC","Kannapolis, Cabarrus County, North Carolina, United States",35.49,-80.62
+61387,Tuckahoe,NY,"Tuckahoe, NY","Village of Tuckahoe, Town of Eastchester, Westchester County, New York, United States",40.95,-73.83
+61982,Pacific,WA,"Pacific, WA","Pacific County, Washington, United States",46.53,-123.77
+62741,Del Valle,TX,"Del Valle, TX","Basilica of our Lady of San Juan del Valle National Shrine, San Juan, Hidalgo County, 78589, United States",26.2,-98.16
+63126,Rising Fawn,GA,"Rising Fawn, GA","Rising Fawn, Dade County, Georgia, United States",34.76,-85.53
+63535,Dowling,MI,"Dowling, MI","Dowling, Baltimore Township, Barry County, Michigan, 49050, United States",42.52,-85.25
+63685,Thurston,OH,"Thurston, OH","Thurston, Fairfield County, Ohio, 43157, United States",39.84,-82.55
+63714,Dunn Loring,VA,"Dunn Loring, VA","Dunn Loring, Fairfax County, Virginia, 22027, United States",38.89,-77.23
+63938,Edwards,IL,"Edwards, IL","Edwards County, Illinois, United States",38.41,-88.06
+64140,Saranac,MI,"Saranac, MI","Saranac, Boston Township, Ionia County, Michigan, United States",42.93,-85.21
+64146,Muskegon,MI,"Muskegon, MI","Muskegon, Muskegon County, Michigan, United States",43.23,-86.25
+64231,Bessemer City,NC,"Bessemer City, NC","Bessemer City, Gaston County, North Carolina, United States",35.28,-81.28
+64824,Rosedale,VA,"Rosedale, VA","Rosedale, Monongalia County, West Virginia, 26504, United States",39.69,-79.97
+65287,South Hero,VT,"South Hero, VT","South Hero, Grand Isle County, Vermont, 05486, United States",44.65,-73.3
+65368,Lancaster,TX,"Lancaster, TX","Lancaster, Dallas County, Texas, United States",32.59,-96.76
+65835,Mukilteo,WA,"Mukilteo, WA","Mukilteo, Snohomish County, Washington, United States",47.95,-122.3
+66269,Seaside,CA,"Seaside, CA","Seaside, Monterey County, California, 93955, United States",36.63,-121.82
+66299,Crouse,NC,"Crouse, NC","Crouse, Lincoln County, North Carolina, 28033, United States",35.42,-81.31
+66446,Grand Isle,VT,"Grand Isle, VT","Grand Isle County, Vermont, United States",44.71,-73.3
+66490,Morrisville,NC,"Morrisville, NC","Morrisville, Wake County, North Carolina, 27650, United States",35.82,-78.83
+66851,Piney Flats,TN,"Piney Flats, TN","Piney Flats, Sullivan County, East Tennessee, Tennessee, 37686, United States",36.42,-82.3
+67276,Campbell,CA,"Campbell, CA","Campbell, Santa Clara County, California, United States",37.29,-121.94
+67461,Tustin,CA,"Tustin, CA","Tustin, Orange County, California, United States",33.75,-117.83
+67518,Seagoville,TX,"Seagoville, TX","Federal Correctional Institution Seagoville, 2113, North Highway 175, Seagoville, Dallas County, Texas, 75159, United States",32.65,-96.57
+68107,Westford,VT,"Westford, VT","Westford, Chittenden County, Vermont, 05494, United States",44.61,-73.01
+68356,Kirkersville,OH,"Kirkersville, OH","Kirkersville, Harrison Township, Licking County, Ohio, 43033, United States",39.96,-82.6
+68638,New River,AZ,"New River, AZ","New River, Phoenix, Maricopa County, Arizona, 85080, United States",33.89,-112.09
+69367,Lamont,FL,"Lamont, FL","Lamont, Jefferson County, Florida, United States",30.38,-83.81
+69659,Coeburn,VA,"Coeburn, VA","Coeburn, Wise County, Virginia, 24230, United States",36.94,-82.46
+69946,Belmond,IA,"Belmond, IA","Belmond, Wright County, Iowa, United States",42.85,-93.61
+70709,Roseville,OH,"Roseville, OH","Roseville, Perry County, Ohio, United States",39.81,-82.08
+70892,Maple Valley,WA,"Maple Valley, WA","Maple Valley, King County, Washington, 98038, United States",47.37,-122.04
+71047,Eaton Park,FL,"Eaton Park, FL","Eaton Park, Polk County, Florida, 33840, United States",28.01,-81.91
+72721,Lake Lure,NC,"Lake Lure, NC","Lake Lure, Rutherford County, North Carolina, 28746, United States",35.43,-82.2
+73188,Icard,NC,"Icard, NC","Icard, Burke County, North Carolina, 28666, United States",35.73,-81.47
+73202,Milton,WA,"Milton, WA","Milton, Van Buren County, Iowa, United States",40.67,-92.16
+73220,Ponte Vedra Beach,FL,"Ponte Vedra Beach, FL","Ponte Vedra Beach, Saint Johns County, Florida, 32250, United States",30.24,-81.39
+74528,Canyon,TX,"Canyon, TX","Canyon, Randall County, 79016, United States",34.98,-101.92
+74934,Clarksburg,CA,"Clarksburg, CA","Clarksburg, The Blue Mountains, Grey County, Ontario, N0H 1J0, Canada",44.55,-80.47
+75464,Laurel,MD,"Laurel, MD","Laurel, Prince George's County, Maryland, 20707, United States",39.1,-76.85
+75657,Rushville,OH,"Rushville, OH","Rushville, Fairfield County, Ohio, United States",39.76,-82.43
+75689,Alvin,TX,"Alvin, TX","Alvin, Brazoria County, Texas, United States",29.42,-95.24
+75818,Seffner,FL,"Seffner, FL","Seffner, Hillsborough County, Florida, 33584, United States",28.0,-82.27
+76229,Savage,MD,"Savage, MD","Savage, Howard County, Maryland, 20763, United States",39.15,-76.82
+76279,Davenport,FL,"Davenport, FL","Davenport, Polk County, Florida, 33836, United States",28.16,-81.6
+76425,Perrysburg,NY,"Perrysburg, NY","Town of Perrysburg, Cattaraugus County, New York, United States",42.46,-79.0
+76450,Woodland,MI,"Woodland, MI","Woodland, Hennepin County, Minnesota, United States",44.95,-93.51
+76556,Hyden,KY,"Hyden, KY","Hyden, Leslie County, Kentucky, United States",37.16,-83.37
+76637,La Pine,OR,"La Pine, OR","La Pine, Deschutes County, Oregon, United States",43.67,-121.5
+76707,Pharr,TX,"Pharr, TX","Pharr, Hidalgo County, Texas, 78577, United States",26.19,-98.18
+76721,Coolidge,GA,"Coolidge, GA","Coolidge, Thomas County, Georgia, United States",31.01,-83.87
+76784,Greenville,FL,"Greenville, FL","Greenville, Madison County, Florida, 32331, United States",30.47,-83.63
+76861,Highgate Center,VT,"Highgate Center, VT","Highgate Center, Highgate, Franklin County, Vermont, 05459, United States",44.94,-73.04
+76954,Boerne,TX,"Boerne, TX","Boerne, Kendall County, Texas, 78006, United States",29.79,-98.73
+77520,Iola,TX,"Iola, TX","Iola, Grimes County, Texas, United States",30.77,-96.08
+77673,Guild,TN,"Guild, TN","Guild, 1346, 4th Street Southeast, Capitol Waterfront Neighborhood, Washington, District of Columbia, 20003, United States",38.87,-77.0
+77725,Rowlett,TX,"Rowlett, TX","Rowlett, Dallas County, Texas, United States",32.9,-96.56
+77927,Belvidere Center,VT,"Belvidere Center, VT","Belvidere Center, Belvidere, Lamoille County, Vermont, 05442, United States",44.75,-72.69
+78413,Fairfield,MT,"Fairfield, MT","Fairfield, Teton County, Montana, 59436, United States",47.61,-111.98
+79125,Huntingdon Valley,PA,"Huntingdon Valley, PA","Huntingdon Valley, Lower Moreland Township, Montgomery County, Pennsylvania, 19006, United States",40.12,-75.06
+79479,China Spring,TX,"China Spring, TX","China Spring Road, Erath, Waco, McLennan County, Texas, 76633, United States",31.63,-97.27
+79696,Reston,VA,"Reston, VA","Reston, Fairfax County, Virginia, United States",38.95,-77.35
+80112,Mulliken,MI,"Mulliken, MI","Mulliken, Roxand Township, Eaton County, Michigan, United States",42.76,-84.9
+81147,Elmira,CA,"Elmira, CA","Elmira, Rural Municipality of Eastern Kings, Kings County, Prince Edward Island, C0A 1K0, Canada",46.44,-62.06
+81461,Spicewood,TX,"Spicewood, TX","Spicewood, Burnet County, Texas, United States",30.48,-98.16
+81799,Busy,KY,"Busy, KY","Busy, Perry County, Kentucky, 41723, United States",37.28,-83.29
+82611,Homer,MI,"Homer, MI","Homer, Kenai Peninsula, Alaska, United States",59.64,-151.54
+82757,Jamestown,CO,"Jamestown, CO","Jamestown, James City County, Virginia, 23081, United States",37.21,-76.77
+83049,Williamsport,OH,"Williamsport, OH","Williamsport, Pickaway County, Ohio, United States",39.59,-83.12
+83280,Palm City,FL,"Palm City, FL","Palm City, Martin County, Florida, 34990, United States",27.17,-80.28
+83382,Sanger,TX,"Sanger, TX","The Trails of Sanger, Sanger, Denton County, 76266, United States",33.38,-97.16
+83959,Bulan,KY,"Bulan, KY","Bulan, Perry County, Kentucky, 41722, United States",37.3,-83.16
+84235,Clinton,WA,"Clinton, WA","Clinton County, Iowa, United States",41.91,-90.56
+84591,Montgomery,TX,"Montgomery, TX","Montgomery County, Texas, United States",30.3,-95.51
+85333,Honaker,VA,"Honaker, VA","Honaker, Russell County, Virginia, 24260, United States",37.02,-81.97
+85385,Sammamish,WA,"Sammamish, WA","Sammamish, King County, Washington, United States",47.6,-122.04
+85747,Gaithersburg,MD,"Gaithersburg, MD","Gaithersburg, Montgomery County, Maryland, United States",39.14,-77.19
+85942,Beaumont,DE,"Beaumont, DE","Beaumont-Hamel, Péronne, Somme, Hauts-de-France, France métropolitaine, 80300, France",50.08,2.66
+87673,Powell,OH,"Powell, OH","Powell, Liberty Township, Delaware County, Ohio, United States",40.16,-83.08
+87781,Monkton,VT,"Monkton, VT","Monkton, Addison County, Vermont, 05469, United States",44.25,-73.12
+88348,New Hudson,MI,"New Hudson, MI","Town of New Hudson, Allegany County, New York, 14714, United States",42.32,-78.25
+88637,Lupton City,TN,"Lupton City, TN","Lupton City, Chattanooga, Hamilton County, East Tennessee, Tennessee, 37351, United States",35.11,-85.26
+89225,Cambridge,VT,"Cambridge, VT","Cambridge, Lamoille County, Vermont, United States",44.65,-72.88
+89284,Watkinsville,GA,"Watkinsville, GA","Watkinsville, Oconee County, Georgia, 30644, United States",33.86,-83.41
+89789,Pounding Mill,VA,"Pounding Mill, VA","Pounding Mill, Tazewell County, Virginia, 24637, United States",37.08,-81.71
+89792,Lewis Center,OH,"Lewis Center, OH","Lewis Center, Orange Township, Delaware County, Ohio, 43035, United States",40.2,-83.01
+89896,Troy,TX,"Troy, TX","Troy, Bell County, Texas, 76579, United States",31.2,-97.3
+90059,Odessa,FL,"Odessa, FL","Odessa, Pasco County, Florida, United States",28.18,-82.55
+90303,Midlothian,TX,"Midlothian, TX","Midlothian, Ellis County, Texas, 76065, United States",32.46,-96.98
+90839,Clifton,CO,"Clifton, CO","Clifton, Passaic County, New Jersey, United States",40.86,-74.16
+91031,Westerville,OH,"Westerville, OH","Westerville, Franklin County, Ohio, 43081, United States",40.13,-82.93
+91717,Nora,VA,"Nora, VA","Nora, Banihal, Ramban district, Jammu and Kashmir, India",33.35,75.27
+92127,Freeland,MI,"Freeland, MI","Freeland, Tittabawassee Township, Saginaw County, Michigan, 48623, United States",43.53,-84.12
+92609,Leicester,NC,"Leicester, NC","Leicester, Buncombe County, North Carolina, 28748, United States",35.66,-82.7
+93222,Meservey,IA,"Meservey, IA","Meservey, Cerro Gordo County, Iowa, United States",42.91,-93.48
+93537,Drift,KY,"Drift, KY","Drift, Floyd County, Kentucky, 41651, United States",37.48,-82.75
+94050,Black Diamond,WA,"Black Diamond, WA","Black Diamond, King County, Washington, 98010, United States",47.31,-122.0
+94314,Cornelius,NC,"Cornelius, NC","Cornelius, Mecklenburg County, North Carolina, United States",35.48,-80.86
+97360,Okahumpka,FL,"Okahumpka, FL","Okahumpka, Lake County, Florida, United States",28.75,-81.9
+97899,Granville,OH,"Granville, OH","Granville, Granville Township, Licking County, Ohio, 43023, United States",40.07,-82.52
+98061,Highland,MD,"Highland, MD","Highland, Howard County, Maryland, 20777, United States",39.18,-76.96
+98421,Arden,NC,"Arden, NC","Arden, Asheville, Buncombe County, North Carolina, 28707, United States",35.47,-82.52
+98685,Swords Creek,VA,"Swords Creek, VA","Swords Creek, Russell County, Virginia, 24649, United States",37.04,-81.92
+99743,Alviso,CA,"Alviso, CA","Alviso, San Jose, Santa Clara County, California, 95002, United States",37.43,-121.98
+100637,Hallsville,TX,"Hallsville, TX","Hallsville City Park, Hallsville, Harrison County, 75650, United States",32.51,-94.57
+100690,Cherry Valley,MA,"Cherry Valley, MA","Cherry Valley, Rockford Township, Winnebago County, Illinois, United States",42.24,-88.96
+101010,Chestnut Hill,MA,"Chestnut Hill, MA","Chestnut Hill, Newton, Middlesex County, Massachusetts, 02138, United States",42.33,-71.17
+101516,Lizella,GA,"Lizella, GA","Lizella, Macon, Bibb County, Georgia, 31052, United States",32.81,-83.82
+101781,Flint,TX,"Flint, TX","Flint, Smith County, Texas, United States",32.2,-95.35
+101868,Dante,VA,"Dante, VA","Dante, Russell County, Virginia, 24237, United States",36.98,-82.3
+101917,Yarmouth Port,MA,"Yarmouth Port, MA","Yarmouth Port, Yarmouth, Barnstable County, Massachusetts, 02675, United States",41.7,-70.25
+103160,Jeff,KY,"Jeff, KY","Jeff, Perry County, Kentucky, 41751, United States",37.21,-83.14
+103291,Eagle Lake,FL,"Eagle Lake, FL","Eagle Lake, Polk County, Florida, 33839, United States",27.98,-81.76
+103586,Palmyra,TN,"Palmyra, TN","Palmyra, Montgomery County, Middle Tennessee, Tennessee, 37142, United States",36.44,-87.49
+103620,Pleasanton,TX,"Pleasanton, TX","Pleasanton, Atascosa County, 78064, United States",28.97,-98.48
+106258,Fultonham,OH,"Fultonham, OH","Fultonham, Muskingum County, Ohio, 43738, United States",39.86,-82.14
+106697,Schertz,TX,"Schertz, TX","Schertz, Guadalupe County, Texas, 78154, United States",29.56,-98.27
+108097,Silver Creek,NY,"Silver Creek, NY","Village of Silver Creek, Town of Hanover, Chautauqua County, New York, 14136, United States",42.54,-79.17
+108466,Moapa,NV,"Moapa, NV","Moapa Town, Clark County, Nevada, United States",36.68,-114.62
+108624,Lorena,TX,"Lorena, TX","Lorena, McLennan County, Texas, United States",31.39,-97.22
+108629,Mead,WA,"Mead, WA","Mead, Spokane County, Washington, 99021, United States",47.77,-117.35
+109379,Santa Ana,TN,"Santa Ana, TN","Santa Ana, Z. 7 SCP, Santa Catarina Pinula, Departamento de Guatemala, 01052, Guatemala",14.54,-90.44
+109811,Breezy Point,NY,"Breezy Point, NY","Breezy Point, Queens County, City of New York, New York, United States",40.56,-73.93
+111503,Browns Summit,NC,"Browns Summit, NC","Browns Summit, Guilford County, North Carolina, 27214, United States",36.21,-79.71
+112762,Clarksville,MI,"Clarksville, MI","Clarksville, Montgomery County, Middle Tennessee, Tennessee, United States",36.53,-87.36
+112943,Fort Lauderdale,Fl,"Fort Lauderdale, Fl","Fort Lauderdale, Broward County, Florida, United States",26.12,-80.14
+115632,Rye,CO,"Rye, CO","City of Rye, Westchester County, New York, United States",40.98,-73.68
+117501,Castle Hayne,NC,"Castle Hayne, NC","Castle Hayne, New Hanover County, North Carolina, United States",34.35,-77.91
+120563,Rural Hall,NC,"Rural Hall, NC","Rural Hall, Forsyth County, North Carolina, 27045, United States",36.24,-80.29
+120697,Olalla,WA,"Olalla, WA","Olalla, Kitsap County, Washington, 98359, United States",47.43,-122.54
+121310,Jarrell,TX,"Jarrell, TX","Jarrell, Williamson County, Texas, 76537, United States",30.82,-97.6
+121683,Poteet,TX,"Poteet, TX","Poteet, Atascosa County, Texas, United States",29.04,-98.57
+121923,Cotuit,MA,"Cotuit, MA","Cotuit, Barnstable, Barnstable County, Massachusetts, 02635, United States",41.62,-70.44
+121957,Hanoverton,OH,"Hanoverton, OH","Hanoverton, Columbiana County, Ohio, United States",40.75,-80.94
+122471,Ceresco,MI,"Ceresco, MI","Ceresco, Marshall Township, Calhoun County, Michigan, United States",42.27,-85.06
+122617,Blue Diamond,NV,"Blue Diamond, NV","Blue Diamond, Clark County, Nevada, 89004, United States",36.05,-115.41
+122894,Fairfax Station,VA,"Fairfax Station, VA","Fairfax Station, Fairfax County, Virginia, 22032, United States",38.8,-77.33
+123219,Dayton,TN,"Dayton, TN","Dayton, Rhea County, East Tennessee, Tennessee, 37321, United States",35.49,-85.01
+123396,Lindale,TX,"Lindale, TX","Lindale Cemetery, Lindale, Smith County, 75771, United States",32.51,-95.42
+123536,Richlands,NC,"Richlands, NC","Richlands, Onslow County, North Carolina, United States",34.9,-77.55
+124775,Cleveland,UT,"Cleveland, UT","Cleveland, Emery County, Utah, United States",39.35,-110.85
+125369,Livingston,TX,"Livingston, TX","Lake Livingston, Polk County, Texas, United States",30.81,-95.17
+125457,Dows,IA,"Dows, IA","Dows, Wright County, Iowa, United States",42.66,-93.5
+126332,White Plains,MD,"White Plains, MD","White Plains, Charles County, Maryland, 20603, United States",38.59,-76.94
+126603,Elmendorf,TX,"Elmendorf, TX","Elmendorf, Bexar County, Texas, United States",29.26,-98.33
+127909,Accokeek,MD,"Accokeek, MD","Accokeek, Prince George's County, Maryland, 20607, United States",38.66,-76.99
+128631,Magna,UT,"Magna, UT","Magna, Salt Lake County, Utah, United States",40.7,-112.08
+129701,Washington,MA,"Washington, MA","Washington County, Illinois, United States",38.37,-89.42
+129729,South El Monte,CA,"South El Monte, CA","South El Monte, Los Angeles County, California, 91733, United States",34.05,-118.05
+129882,Mendota,VA,"Mendota, VA","Mendota, Washington County, Virginia, 24258, United States",36.71,-82.3
+131398,Santa Fe,TX,"Santa Fe, TX","Santa Fe, Galveston County, United States",29.38,-95.11
+131634,Arrington,TN,"Arrington, TN","Arrington, Williamson County, Middle Tennessee, Tennessee, United States",35.87,-86.71
+132747,Ochlocknee,GA,"Ochlocknee, GA","Ochlocknee, Thomas County, Georgia, United States",30.97,-84.05
+132754,San Benito,TX,"San Benito, TX","San Benito, Irving, Dallas County, Texas, 75039, United States",32.91,-96.94
+132756,Evergreen,CO,"Evergreen, CO","Evergreen, Conecuh County, Alabama, 36401, United States",31.43,-86.96
+132944,Thompson,IA,"Thompson, IA","Thompson, Winnebago County, Iowa, United States",43.37,-93.77
+133473,Lisle,IL,"Lisle, IL","Lisle, DuPage County, Illinois, United States",41.8,-88.07
+133556,Kenwood,CA,"Kenwood, CA","Kenwood, Sonoma County, California, 95442, United States",38.41,-122.55
+134219,Derwood,MD,"Derwood, MD","Derwood, Montgomery County, Maryland, 20855, United States",39.12,-77.16
+134490,Los Altos,CA,"Los Altos, CA","Los Altos, Santa Clara County, California, United States",37.38,-122.12
+134794,New Albany,OH,"New Albany, OH","New Albany, Plain Township, Franklin County, Ohio, 43054, United States",40.08,-82.81
+135418,South Houston,TX,"South Houston, TX","PIOLA HOUSTON MEMORIAL, TX, 1415, South Voss Road, Houston, Harris County, Texas, 77057, United States",29.75,-95.5
+136501,Highland,CA,"Highland, CA","Highland, San Bernardino County, California, United States",34.11,-117.18
+136799,Justin,TX,"Justin, TX","Justin, Denton County, Texas, United States",33.08,-97.3
+137052,Weatherford,TX,"Weatherford, TX","Weatherford, Parker County, Texas, 76086, United States",32.76,-97.8
+138951,Elizabethton,TN,"Elizabethton, TN","Elizabethton, Carter County, East Tennessee, Tennessee, United States",36.35,-82.21
+139070,Hyde Park,VT,"Hyde Park, VT","Hyde Park, Lamoille County, Vermont, United States",44.59,-72.62
+139955,Midland,NC,"Midland, NC","Midland, Cabarrus County, North Carolina, 28107, United States",35.23,-80.5
+140479,Richmond,VT,"Richmond, VT","Richmond, Chittenden County, Vermont, 05477, United States",44.41,-72.99
+140719,Clarksville,MD,"Clarksville, MD","Clarksville, Howard County, Maryland, 21029, United States",39.21,-76.94
+141697,Lorton,VA,"Lorton, VA","Lorton, Fairfax County, Virginia, United States",38.7,-77.24
+141985,Newfane,VT,"Newfane, VT","Newfane, Windham County, Vermont, United States",42.99,-72.66
+143185,Sassafras,KY,"Sassafras, KY","Sassafras, Knott County, Kentucky, 41773, United States",37.22,-83.06
+143412,Bonaire,GA,"Bonaire, GA","Bonaire, Pedrafita, Guitiriz, Terra Chá, Lugo, Galicia, 27389, España",43.14,-7.76
+144351,Seminole,FL,"Seminole, FL","Seminole County, Florida, United States",28.72,-81.24
+146408,Labelle,FL,"Labelle, FL","LaBelle, Hendry County, Florida, 33935, United States",26.76,-81.44
+146505,Rockbridge,OH,"Rockbridge, OH","Rockbridge, Hocking County, Ohio, 43149, United States",39.58,-82.52
+148722,Houston,PA,"Houston, PA","Houston County, Alabama, United States",31.14,-85.27
+149994,Whitsett,NC,"Whitsett, NC","Whitsett, Guilford County, North Carolina, United States",36.07,-79.56
+150271,Shasta,CA,"Shasta, CA","Shasta County, California, United States",40.8,-122.0
+150649,Merrifield,VA,"Merrifield, VA","Merrifield, Fairfax County, Virginia, United States",38.88,-77.24
+151039,Thornton,IA,"Thornton, IA","Thornton, Cerro Gordo County, Iowa, 50479, United States",42.94,-93.38
+155375,New Straitsville,OH,"New Straitsville, OH","New Straitsville, Perry County, Ohio, United States",39.58,-82.24
+155495,Nolanville,TX,"Nolanville, TX","Nolanville, Bell County, Texas, 76559, United States",31.08,-97.61
+158463,Eaton Rapids,MI,"Eaton Rapids, MI","Eaton Rapids, Eaton County, Michigan, 48827, United States",42.51,-84.66
+160169,Rockwell,IA,"Rockwell, IA","Rockwell, Cerro Gordo County, Iowa, United States",42.99,-93.19
+160189,Glenn Dale,MD,"Glenn Dale, MD","Glenn Dale, Prince George's County, Maryland, United States",38.98,-76.8
+160824,Milpitas,CA,"Milpitas, CA","Milpitas, Santa Clara County, California, 95035, United States",37.43,-121.9
+161476,Lily Dale,NY,"Lily Dale, NY","Lily Dale, Town of Pomfret, Chautauqua County, New York, 14752, United States",42.35,-79.32
+162547,Dimondale,MI,"Dimondale, MI","Dimondale, Windsor Charter Township, Eaton County, Michigan, United States",42.65,-84.65
+162548,Nome,TX,"Nome, TX","Nome, Jefferson County, Texas, United States",30.04,-94.42
+163182,Langley,KY,"Langley, KY","Langley, Floyd County, Kentucky, 41645, United States",37.53,-82.79
+163437,Biola,CA,"Biola, CA","Biola, Fresno County, California, 93606, United States",36.8,-120.02
+163987,Bensalem,PA,"Bensalem, PA","Bensalem Township, Bucks County, Pennsylvania, United States",40.1,-74.95
+164188,Arlington,TN,"Arlington, TN","Arlington, Snohomish County, Washington, United States",48.18,-122.14
+165005,Kennedy,NY,"Kennedy, NY","Kennedy, Town of Poland, Chautauqua County, New York, 14747, United States",42.16,-79.1
+165490,Wrightsville Beach,NC,"Wrightsville Beach, NC","Wrightsville Beach, New Hanover County, North Carolina, United States",34.21,-77.8
+166047,Dunedin,FL,"Dunedin, FL","Dunedin, Pinellas County, Florida, 34698, United States",28.02,-82.77
+167337,Mc Dowell,KY,"Mc Dowell, KY","Mc Dowell Road, Harrison County, Kentucky, 41061, United States",38.56,-84.18
+167487,Junction City,OH,"Junction City, OH","Junction City, Perry County, Ohio, United States",39.72,-82.3
+167881,Leburn,KY,"Leburn, KY","Leburn, Knott County, Kentucky, 41822, United States",37.35,-82.96
+168434,Spring,TN,"Spring, TN","Spring, Whatcom County, Washington, United States",48.96,-122.24
+168502,Stanwood,WA,"Stanwood, WA","Stanwood, Cedar County, Iowa, United States",41.89,-91.15
+168702,Downs,IL,"Downs, IL","Downs, McLean County, Illinois, United States",40.4,-88.87
+168990,Roans Prairie,TX,"Roans Prairie, TX","TX 90, Roans Prairie, Grimes County, 77830, United States",30.54,-95.97
+169110,Brant,NY,"Brant, NY","Town of Brant, Erie County, New York, United States",42.59,-79.02
+169708,Liberty,TX,"Liberty, TX","Liberty County, Texas, United States",30.09,-94.79
+171130,Miami,BA,"Miami, BA","Miami, Rural Municipality of Thompson, Division No. 3, Manitoba, Canada",49.37,-98.24
+171190,Dixie,GA,"Dixie, GA","Dixie, Macon, Bibb County, Georgia, 31220, United States",32.87,-83.76
+172476,Augusta,MI,"Augusta, MI","Augusta, Richmond County, Georgia, United States",33.47,-81.97
+173806,Bullard,TX,"Bullard, TX","Bullard Kids Park, Bullard, Smith County, 75757, United States",32.14,-95.33
+174630,New Waterford,OH,"New Waterford, OH","New Waterford, Columbiana County, Ohio, 44445, United States",40.85,-80.61
+175218,Altamonte Springs,FL,"Altamonte Springs, FL","Altamonte Springs, Seminole County, Florida, United States",28.66,-81.39
+175485,Grapevine,TX,"Grapevine, TX","Grapevine, Tarrant County, Texas, 76051, United States",32.93,-97.08
+177401,Millican,TX,"Millican, TX","Millican, Brazos County, Texas, 77866, United States",30.47,-96.2
+178649,Greenacres,WA,"Greenacres, WA","Greenacres, Spokane Valley, Spokane County, Washington, 99307, United States",47.66,-117.16
+179954,Salisbury,NC,"Salisbury, NC","Salisbury, Rowan County, North Carolina, United States",35.67,-80.47
+182299,Seal Beach,CA,"Seal Beach, CA","Seal Beach, Orange County, California, United States",33.74,-118.11
+185594,Irving,NY,"Irving, NY","Irving /Jogeodzae', Town of Hanover, Chautauqua County, New York, 14081, United States",42.57,-79.11
+185955,Huntington,VT,"Huntington, VT","Huntington, Chittenden County, Vermont, 05462, United States",44.33,-72.99
+186201,Harmony,NC,"Harmony, NC","Harmony, Iredell County, North Carolina, 28634, United States",35.96,-80.77
+187120,Fulton,MD,"Fulton, MD","Fulton, Howard County, Maryland, 20759, United States",39.15,-76.92
+188128,Normal,IL,"Normal, IL","Normal, McLean County, Illinois, United States",40.51,-88.98
+189357,Harvey,IL,"Harvey, IL","Harvey, Thornton Township, Cook County, Illinois, 60426, United States",41.61,-87.65
+190877,Bryant,AL,"Bryant, AL","Bryant, Jackson County, Alabama, 35958, United States",34.94,-85.63
+191349,Highgate Springs,VT,"Highgate Springs, VT","Highgate Springs, Highgate, Franklin County, Vermont, 05460, United States",44.98,-73.11
+191797,Lone Oak,TX,"Lone Oak, TX","Lone Oak, Round Rock, Williamson County, 78665, United States",30.56,-97.67
+191845,Princeton,TX,"Princeton, TX","Princeton Club, Longview, Gregg County, 75605, United States",32.55,-94.75
+192193,Brooklyn,OT,"Brooklyn, OT","Brooklyn Guitar Shop, Avenue de la République, Site de l'Ancien Hôpital, La Noue, Saint-Dizier, Haute-Marne, Grand Est, France métropolitaine, 52100, France",48.64,4.94
+192400,Marshville,NC,"Marshville, NC","Marshville, Union County, North Carolina, 28103, United States",34.99,-80.37
+193101,Sheffield,IA,"Sheffield, IA","Sheffield, Franklin County, Iowa, United States",42.89,-93.22
+193168,Wayland,KY,"Wayland, KY","Wayland, Floyd County, Kentucky, United States",37.45,-82.81
+194609,Westfield,VT,"Westfield, VT","Westfield, Orleans County, Vermont, 05874, United States",44.89,-72.43
+195925,Union City,CA,"Union City, CA","Union City, Alameda County, California, 94587, United States",37.6,-122.08
+196458,Mission,TX,"Mission, TX","Mission, Hidalgo County, Texas, United States",26.22,-98.33
+196497,Rowe,VA,"Rowe, VA","Rowe, Buchanan County, Virginia, 24646, United States",37.14,-82.03
+198594,Valrico,FL,"Valrico, FL","Valrico, Hillsborough County, Florida, United States",27.95,-82.24
+199137,Mcallen,FL,"Mcallen, FL","McAllen Street, Charlotte County, Florida, 33981, United States",26.94,-82.25
+199930,Fort Hancock,TX,"Fort Hancock, TX","West State Highway 20, Villa Alegre Colonia, Fort Hancock, Hudspeth County, 79839, United States",31.29,-105.86
+200129,Great Falls,VA,"Great Falls, VA","Great Falls, Fairfax County, Virginia, 22066, United States",39.01,-77.28
+202163,Stony Point,NC,"Stony Point, NC","Stony Point, Alexander County, North Carolina, United States",35.86,-81.05
+202185,Dublin,CA,"Dublin, CA","Dublin, Alameda County, California, 94568, United States",37.7,-121.94
+202842,Elmo,UT,"Elmo, UT","Elmo, Emery County, Utah, United States",39.39,-110.82
+203339,Dania,FL,"Dania, FL","Dania, Northwest 4th Avenue, Dania Beach, Broward County, Florida, 33004, United States",26.05,-80.15
+203404,East Liverpool,OH,"East Liverpool, OH","East Liverpool, Columbiana County, Ohio, United States",40.62,-80.58
+204926,Britt,IA,"Britt, IA","Britt, Hancock County, Iowa, United States",43.1,-93.8
+205037,Rosharon,TX,"Rosharon, TX","Rosharon Drive, Travis Ranch, Kaufman County, Texas, United States",32.79,-96.48
+205313,Mansfield,TX,"Mansfield, TX","Mansfield, Tarrant County, Texas, 76063, United States",32.56,-97.14
+205920,Bonita,CA,"Bonita, CA","Bonita, San Diego County, California, 91902, United States",32.66,-117.02
+206386,Smithville,IN,"Smithville, IN","Smithville, Monroe County, Indiana, 47458, United States",39.07,-86.51
+207912,Burtonsville,MD,"Burtonsville, MD","Burtonsville, Montgomery County, Maryland, 20866, United States",39.11,-76.93
+208408,Arlington,WA,"Arlington, WA","Arlington, Snohomish County, Washington, United States",48.18,-122.14
+208723,Mabank,TX,"Mabank, TX","Mabank, Kaufman County, Texas, United States",32.4,-96.17
+210853,Iron Station,NC,"Iron Station, NC","Iron Station, Lincoln County, North Carolina, 28080, United States",35.44,-81.16
+211819,Starksboro,VT,"Starksboro, VT","Starksboro, Addison County, Vermont, 05487, United States",44.23,-73.06
+212536,Swartz Creek,MI,"Swartz Creek, MI","Swartz Creek, Genesee County, Michigan, 48473, United States",42.96,-83.83
+215490,Williston,FL,"Williston, FL","Williston, Levy County, Florida, United States",29.39,-82.45
+215576,Montgomery,VT,"Montgomery, VT","Montgomery, Franklin County, Vermont, United States",44.88,-72.61
+215910,Underhill,VT,"Underhill, VT","Underhill, Chittenden County, Vermont, United States",44.51,-72.9
+216175,Fleming Island,FL,"Fleming Island, FL","Fleming Island High School, 2233, Village Square Parkway, Clay County, Florida, 32003, United States",30.09,-81.71
+217610,White Oak,TX,"White Oak, TX","White Oak, Crowley, Tarrant County, Texas, 76036, United States",32.56,-97.36
+218113,Somerset,OH,"Somerset, OH","Somerset, Perry County, Ohio, 43783, United States",39.81,-82.3
+221865,Willsboro,NY,"Willsboro, NY","Town of Willsboro, Essex County, New York, 12996, United States",44.36,-73.39
+225189,Cheney,WA,"Cheney, WA","Cheney, Spokane County, Washington, United States",47.49,-117.58
+226438,Mountain Center,CA,"Mountain Center, CA","Mountain Center, Riverside County, California, United States",33.72,-116.72
+226722,Clarion,IA,"Clarion, IA","Clarion, Wright County, Iowa, 50525, United States",42.73,-93.73
+226908,Graysville,GA,"Graysville, GA","Graysville, Catoosa County, Georgia, 30726, United States",34.98,-85.14
+229376,Advance,NC,"Advance, NC","Advance, Davie County, North Carolina, 27006, United States",35.94,-80.41
+229926,Garrett Park,MD,"Garrett Park, MD","Garrett Park, Montgomery County, Maryland, 20896, United States",39.03,-77.1
+230922,West Barnstable,MA,"West Barnstable, MA","West Barnstable, Barnstable, Barnstable County, Massachusetts, 02668, United States",41.71,-70.37
+231053,Commercial Point,OH,"Commercial Point, OH","Commercial Point, Pickaway County, Ohio, United States",39.77,-83.06
+236603,Lake Oswego,OR,"Lake Oswego, OR","Lake Oswego, Clackamas County, Oregon, United States",45.42,-122.67
+239004,Millington,TN,"Millington, TN","Millington, Shelby County, West Tennessee, Tennessee, United States",35.34,-89.9
+240614,Marion,TX,"Marion, TX","Marion, Guadalupe County, Texas, United States",29.57,-98.14
+240868,Lone Tree,CO,"Lone Tree, CO","Lone Tree, Johnson County, Iowa, United States",41.49,-91.43
+241081,Lake Villa,IL,"Lake Villa, IL","Lake Villa, Lake County, Illinois, United States",42.42,-88.07
+241909,Gerry,NY,"Gerry, NY","Town of Gerry, Chautauqua County, New York, 14740, United States",42.19,-79.25
+242313,Pavo,GA,"Pavo, GA","Pavo, Brooks County, Georgia, 31778, United States",30.96,-83.74
+242523,Etna,OH,"Etna, OH","Etna, Etna Township, Licking County, Ohio, 43018, United States",39.96,-82.68
+243297,Union Grove,NC,"Union Grove, NC","Union Grove, Beaufort County, North Carolina, United States",35.67,-76.61
+244267,Clayton,NC,"Clayton, NC","Clayton, Johnston County, North Carolina, United States",35.65,-78.46
+245756,New Springfield,OH,"New Springfield, OH","New Springfield, Mahoning County, Ohio, 44443, United States",40.92,-80.61
+246408,Tekonsha,MI,"Tekonsha, MI","Tekonsha, Tekonsha Township, Calhoun County, Michigan, United States",42.09,-84.99
+246996,Shiro,TX,"Shiro, TX","Shiro, Grimes County, Texas, United States",30.61,-95.89
+248070,Indian Rocks Beach,FL,"Indian Rocks Beach, FL","Indian Rocks Beach, Pinellas County, Florida, United States",27.89,-82.85
+248412,Crestline,CA,"Crestline, CA","Crestline, San Bernardino County, California, United States",34.25,-117.29
+250558,Hastings On Hudson,NY,"Hastings On Hudson, NY","Village of Hastings-on-Hudson, Town of Greenburgh, Westchester County, New York, 10706, United States",40.99,-73.88
+252086,Manvel,TX,"Manvel, TX","Manvel, Bulverde, Comal County, Texas, 78163, United States",29.74,-98.43
+253542,Johnson City,NY,"Johnson City, NY","Village of Johnson City, Town of Union, Broome County, New York, 13790, United States",42.12,-75.96
+253729,Jacksonville,OR,"Jacksonville, OR","Jacksonville, Jackson County, Oregon, 97530, United States",42.31,-122.97
+254907,Dayton,TX,"Dayton, TX","Dayton Lakes, Liberty County, Texas, United States",30.14,-94.82
+254909,Panna Maria,TX,"Panna Maria, TX","West Panna Maria Street, Runge, Karnes County, Texas, 78151, United States",28.89,-97.72
+255579,Hueysville,KY,"Hueysville, KY","Hueysville, Floyd County, Kentucky, 41630, United States",37.5,-82.84
+256576,Glade Park,CO,"Glade Park, CO","Glade Park, Mesa County, Colorado, 81523, United States",38.99,-108.74
+257376,La Marque,TX,"La Marque, TX","La Marque, Galveston County, 77568, United States",29.37,-94.97
+260569,Montgomery Village,MD,"Montgomery Village, MD","Montgomery Village, Montgomery County, Maryland, 20886, United States",39.18,-77.21
+260608,Shawnee,OH,"Shawnee, OH","Shawnee, Perry County, Ohio, 43782, United States",39.6,-82.21
+263453,Forest Park,GA,"Forest Park, GA","Forest Park, Clayton County, Georgia, 30297, United States",33.62,-84.37
+265127,College Grove,TN,"College Grove, TN","College Grove, Rockwood, Roane County, East Tennessee, Tennessee, United States",35.89,-84.62
+266631,Celoron,NY,"Celoron, NY","Village of Celoron, Town of Ellicott, Chautauqua County, New York, 14720, United States",42.11,-79.28
+267077,Saratoga,CA,"Saratoga, CA","Saratoga, Santa Clara County, California, 95070, United States",37.26,-122.02
+268611,North Collins,NY,"North Collins, NY","Village of North Collins, Town of North Collins, Erie County, New York, United States",42.6,-78.94
+269239,Sloan,NV,"Sloan, NV","Sloan, Clark County, Nevada, 89054, United States",35.93,-115.2
+272562,Rogers,OH,"Rogers, OH","Rogers, Columbiana County, Ohio, United States",40.79,-80.63
+274946,El Sobrante,CA,"El Sobrante, CA","El Sobrante, Richmond, Contra Costa County, California, 94803, United States",37.97,-122.31
+279876,Rogersville,TN,"Rogersville, TN","Rogersville, Hawkins County, East Tennessee, Tennessee, 37857, United States",36.41,-83.01
+280800,Venus,TX,"Venus, TX","Venus, Księdza Stanisława Staszica, Osiedle Chęcińskie, Śródmieście, Kielce, województwo świętokrzyskie, 25-008, Polska",50.87,20.63
+281318,Colbert,WA,"Colbert, WA","Colbert, Spokane County, Washington, 99005, United States",47.82,-117.35
+281689,Winona,OH,"Winona, OH","Winona, Columbiana County, Ohio, 44493, United States",40.83,-80.9
+282006,Dungannon,VA,"Dungannon, VA","Dungannon, Scott County, Virginia, 24245, United States",36.83,-82.47
+282406,Dolton,IL,"Dolton, IL","Dolton, Thornton Township, Cook County, Illinois, 60419, United States",41.64,-87.61
+284241,Hawley,TX,"Hawley, TX","Hawley, Jones County, Texas, United States",32.6,-99.81
+284517,White Cottage,OH,"White Cottage, OH","White Cottage, Muskingum County, Ohio, 43791, United States",39.87,-82.1
+286537,Longmeadow,MA,"Longmeadow, MA","Longmeadow, Hampden County, Massachusetts, 01106, United States",42.05,-72.58
+287957,Wylie,TX,"Wylie, TX","Wylie, Collin County, Texas, United States",33.02,-96.54
+288035,Randolph,NY,"Randolph, NY","Randolph, Town of Randolph, Cattaraugus County, New York, United States",42.16,-78.98
+291263,Vestal,NY,"Vestal, NY","Town of Vestal, Broome County, New York, United States",42.09,-76.05
+292237,Fallbrook,CA,"Fallbrook, CA","Fallbrook, San Diego County, California, 92028, United States",33.38,-117.25
+294824,Oakwood,VA,"Oakwood, VA","Oakwood, Richmond, Virginia, 23223, United States",37.53,-77.4
+295768,Collierville,TN,"Collierville, TN","Collierville, Shelby County, West Tennessee, Tennessee, 38017, United States",35.04,-89.66
+296074,Hortense,GA,"Hortense, GA","Hortense, Brantley County, Georgia, United States",31.34,-81.96
+299903,Leland,IA,"Leland, IA","Leland, Winnebago County, Iowa, United States",43.34,-93.64
+300313,Montclair,CA,"Montclair, CA","Montclair, San Bernardino County, California, 91763, United States",34.08,-117.69
+301620,Strawberry Plains,TN,"Strawberry Plains, TN","Strawberry Plains, Jefferson County, East Tennessee, Tennessee, 37871, United States",36.06,-83.69
+306488,Great Neck,NY,"Great Neck, NY","Village of Great Neck, Town of North Hempstead, Nassau County, New York, 11023, United States",40.8,-73.73
+306683,Wolfforth,TX,"Wolfforth, TX","Wolfforth, Lubbock County, United States",33.51,-102.01
+306765,Northville,MI,"Northville, MI","Northville, Wayne County, Michigan, United States",42.43,-83.48
+306873,Sugar Land,TX,"Sugar Land, TX","Sugar Land, Fort Bend County, Texas, United States",29.62,-95.63
+313880,Umatilla,FL,"Umatilla, FL","Umatilla, Lake County, Florida, United States",28.93,-81.67
+315904,Noblesville,IN,"Noblesville, IN","Noblesville, Hamilton County, Indiana, United States",40.05,-86.01
+316498,Summerfield,NC,"Summerfield, NC","Summerfield, Guilford County, North Carolina, 27358, United States",36.21,-79.9
+318797,Eads,TN,"Eads, TN","Eads, Memphis, Shelby County, West Tennessee, Tennessee, 38028, United States",35.2,-89.65
+319390,Indianola,WA,"Indianola, WA","Indianola, Warren County, Iowa, 50125, United States",41.36,-93.56
+327076,San Jacinto,CA,"San Jacinto, CA","San Jacinto, Riverside County, California, United States",33.78,-116.96
+328131,Friendswood,TX,"Friendswood, TX","Friendswood Link Road, Friendswood, Harris County, Texas, 77546, United States",29.53,-95.18
+328603,Birchleaf,VA,"Birchleaf, VA","Birchleaf, Dickenson County, Virginia, 24220, United States",37.18,-82.27
+329709,San Leandro,CA,"San Leandro, CA","San Leandro, Alameda County, California, United States",37.72,-122.16
+330417,Eagle Mountain,UT,"Eagle Mountain, UT","Eagle Mountain, Utah County, Utah, 84005, United States",40.31,-112.01
+334440,Krypton,KY,"Krypton, KY","Krypton, Perry County, Kentucky, 41754, United States",37.31,-83.34
+336645,Lake Forest,CA,"Lake Forest, CA","Lake Forest, Orange County, California, United States",33.65,-117.69
+337462,Angola,NY,"Angola, NY","Village of Angola, Town of Evans, Erie County, New York, United States",42.64,-79.03
+338946,Midkiff,TX,"Midkiff, TX","Midkiff, Upton County, Texas, 79755, United States",31.63,-101.84
+339375,Mallie,KY,"Mallie, KY","Mallie Hale Road, Magoffin County, Kentucky, 41632, United States",37.56,-82.92
+344867,Highlands,TX,"Highlands, TX","Highlands, Collin County, Texas, 75097, United States",33.39,-96.68
+346335,Winter Garden,FL,"Winter Garden, FL","Winter Garden, Orange County, Florida, 34787, United States",28.57,-81.59
+346903,Imperial,CA,"Imperial, CA","Imperial County, California, United States",33.03,-115.36
+348771,Cunningham,TN,"Cunningham, TN","Cunningham, Adams County, Washington, United States",46.82,-118.81
+352573,Woodville,FL,"Woodville, FL","Woodville, Leon County, Florida, 32395, United States",30.31,-84.26
+353045,Mount Carmel,TN,"Mount Carmel, TN","Mount Carmel, Hawkins County, East Tennessee, Tennessee, 37645, United States",36.56,-82.66
+355034,Morganton,NC,"Morganton, NC","Morganton, Burke County, North Carolina, 28655, United States",35.75,-81.69
+355220,Pooler,GA,"Pooler, GA","Pooler, Chatham County, Georgia, 31322, United States",32.12,-81.25
+355848,Van Buren Point,NY,"Van Buren Point, NY","Van Buren Point, Town of Portland, Chautauqua County, New York, 14166, United States",42.45,-79.42
+356328,Esom Hill,GA,"Esom Hill, GA","Esom Hill, Polk County, Georgia, 30138, United States",33.95,-85.39
+356546,Conifer,CO,"Conifer, CO","Conifer, Jefferson County, Colorado, 80433, United States",39.52,-105.31
+357658,Price,UT,"Price, UT","Price, Carbon County, Utah, 84591, United States",39.6,-110.81
+360646,Greenville,MI,"Greenville, MI","Greenville, Washington County, Mississippi, United States",33.4,-91.06
+362378,Oviedo,FL,"Oviedo, FL","Oviedo, Seminole County, Florida, United States",28.67,-81.21
+362899,Gettysburg,PA,"Gettysburg, PA","Gettysburg, Adams County, Pennsylvania, 17325, United States",39.83,-77.23
+363143,Evans,CO,"Evans, CO","Evans, Weld County, Colorado, United States",40.38,-104.69
+364953,Wooton,KY,"Wooton, KY","Wooton, Leslie County, Kentucky, 41776, United States",37.18,-83.3
+367043,Topmost,KY,"Topmost, KY","Topmost Baptist Church, Patton Branch Road, Knott County, Kentucky, 41859, United States",37.39,-82.79
+368121,Willow Spring,NC,"Willow Spring, NC","Willow Spring, Wake County, North Carolina, United States",35.6,-78.73
+370296,Winona,TX,"Winona, TX","Winona, Smith County, Texas, United States",32.49,-95.17
+371837,Blue Springs,MO,"Blue Springs, MO","Blue Springs, Jackson County, Missouri, United States",39.02,-94.28
