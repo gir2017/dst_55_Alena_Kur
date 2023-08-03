@@ -33,6 +33,7 @@ Bank score prediction project
 + Outlier removing
 + Feature Engineering
 + EDA
++ ML
 + Naive model
 + PCA, SVD to reduce the matrix size
 + Hyperparameter tuning
