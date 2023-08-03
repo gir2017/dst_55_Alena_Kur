@@ -52,5 +52,18 @@ Predict car classes from the pictures using deep learning
 Analysis of vacancies from HeadHunter using SQL query in jupyter notebook
 
 ### diplom
+Property price prediction<br>
+The data have a lot of outliers, mistakes, input errors, slang abbreviations, that's why the project was split into 2 parts data_cleaning.ipynb and eda_ml.ipynb<br>
++ Data cleaning
++ Data Enrichment
++ EDA
++ Feature Engineering
++ ML
++ Outlier removal using different models: IsolationForest, EllipticEnvelope, LocalOutlierFactor
++ Feature selection using different methods: RFE, SelectFromModel, FeatureImportance
++ Testing of linear models. Baseline.
++ Testing of 5 different advanced models: Random Forest, CatBoost, Gradient Boosting, XGBoost, LightGBM. Bagging and stacking have also been tested.
++ Hyperparameter tuning
 
-   
+
+
