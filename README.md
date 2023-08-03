@@ -11,6 +11,10 @@ Studying the provided data using pandas.
 
 ### module_2<br>
 EDA, prepare the data for the machine learning
++ Filter outliers
++ Perform correlation analysis in quantitative data
++ Perform analysis of the nominative variables
++ Select columns for the machine learning step.
 
 ### module_3<br>
  Predict tripadvisor restaurant rating.
