@@ -9,14 +9,14 @@ The function guesses the number and prints the number of attempts.
 ### module_1<br>
 Studying the provided data using pandas.
 
-### module_2<br>
+### [module_2](https://github.com/gir2017/dst_55_Alena_Kur/tree/master/module_2)<br>
 EDA, prepare the data for the machine learning
 + Filter outliers
 + Perform correlation analysis in quantitative data
 + Perform analysis of the nominative variables
 + Select columns for the machine learning step.
 
-### module_3<br>
+### [module_3](https://github.com/gir2017/dst_55_Alena_Kur/tree/master/module_3)<br>
  Predict tripadvisor restaurant rating.
 + Data cleaning
 + Filling NA
@@ -26,7 +26,7 @@ EDA, prepare the data for the machine learning
 + Using ML first time with default parameters<br>
 First whole data preprocessing with eda and feature engineering.
 
-### module_4
+### [module_4](https://github.com/gir2017/dst_55_Alena_Kur/tree/master/module_4)
 Bank score prediction project
 + Data cleaning
 + Filling NA
@@ -38,7 +38,7 @@ Bank score prediction project
 + PCA, SVD to reduce the matrix size
 + Hyperparameter tuning
 
-### module_8
+### [module_8](https://github.com/gir2017/dst_55_Alena_Kur/tree/master/module_8)
 Predict car classes from the pictures using deep learning
 + 6 types of augmentation
 + Different sizes of images starting from 512 to 224
@@ -53,7 +53,7 @@ Predict car classes from the pictures using deep learning
 + TTA
 + Different head architecture
 
-### new_module_2
+### [new_module_2](https://github.com/gir2017/dst_55_Alena_Kur/tree/master/new_module_2)
 Analysis of vacancies from HeadHunter using SQL query in jupyter notebook
 
 ### [diplom](https://github.com/gir2017/dst_55_Alena_Kur/blob/master/diplom/readme.md)
