@@ -56,7 +56,7 @@ Predict car classes from the pictures using deep learning
 ### new_module_2
 Analysis of vacancies from HeadHunter using SQL query in jupyter notebook
 
-### diplom
+### [diplom](https://github.com/gir2017/dst_55_Alena_Kur/blob/master/diplom/readme.md)
 Property price prediction<br>
 The data have a lot of outliers, mistakes, input errors, slang abbreviations, that's why the project was split into 2 parts data_cleaning.ipynb and eda_ml.ipynb<br>
 + Data cleaning
