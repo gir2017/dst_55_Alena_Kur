@@ -1,7 +1,7 @@
+### Main goal of the project:<br>
+EDA, prepare the data for the machine learning
 
-Main goal of the project: EDA, prepare the data for the machine learning
-
-Main tasks:	
+#### Main tasks:	
 	1. Look at the data, filter outliers
 	2. Perform correlation analysis in quantitative data
 	3. Perform analysis of the nominative variables. 
@@ -10,7 +10,7 @@ Main tasks:
 - there are about 5% of NaN's in the initial data
 - the real outliers were only in fedu, famrel, absences - so the data was clear enough
 
-Steps:
+#### Steps:
 1. Prepare functions. Look at the data in general.
 2. Select columns to have a deeper look. Filter outliers.
 3. Calculate number of unique values/NaN's
@@ -19,7 +19,7 @@ Steps:
 6. Perform analysis of the nominative variables. 
 7. Select columns for the machine learning step. Prepare the final data.
 
-Answers:
+#### Answers:
 1. This project was for each student personally. We didn't work in teams.
 2. I'm satisfied with my histogram preparation functions & working with outliers
 3. I'm not satisfied with my analysis of the nominative variables.
